@@ -1,8 +1,39 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import LocationLog from "./LocationLog";
+import ConstellationList from "./ConstellationList";
+import Search from "./Search";
 
+function ConstellationPage() {
+    const [constellations, setConstellations] = useState([]);
+    const [searchTerm, setSearchTerm] = useState("");
+    
+    useEffect(() => {
+        fetch("http://localhost:3000/constellations")
+            .then((r) => r.json())
+            .then((constellationArray) => {
+                setConstellations(constellationArray);
+            });
+    }, []);
 
+    function handleAddLocation(newLocation) {
+        const updatedConstellationArray = [...constellations, newConstellation];
+        setConstellations(updatedConstellationArray);
+    }
 
+    const displayedConstellations = constellations.filter((constellation) => {
+        return constellation.name.toLowerCase().includes(searchTerm.toLowerCase());
+    });
 
+    return (
+        <main>
+            <LocationLog onAddLocation={handleAddLocation} />
+            <Search searchTerm={searchTerm} onSearchChange={setSearchTerm} />
+            <ConstellationList
+                constellations={displayedConstellations}
+            />
+        </main>
+    );
+}
 
 
 
