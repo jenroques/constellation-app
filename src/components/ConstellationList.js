@@ -1,7 +1,7 @@
 import React from "react";
 import ConstellationCard from "./ConstellationCard";
 
-function ConstellationCard({ constellations }) {
+function ConstellationCard({ constellations, onAddLocation }) {
     return (
         <ul className="cards">
             {constellations.map((constellation) => {
@@ -9,6 +9,7 @@ function ConstellationCard({ constellations }) {
                     <ConstellationCard
                         key={constellations.id}
                         constellation={constellation}
+                        onAddLocation={onAddLocation}
                     />
                 );
             })}
