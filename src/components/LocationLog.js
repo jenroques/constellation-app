@@ -5,7 +5,7 @@ function LocationLog({ onAddLocation }) {
 
     function handleSubmit(e) {
         e.preventDefault();
-        fetch("http://localhost:3001/constellations", {
+        fetch(`http://localhost:3001/constellations/${location}, {
             method: "POST", 
             headers: {
                 "Content-Type": "application/json",
@@ -20,10 +20,19 @@ function LocationLog({ onAddLocation }) {
 
     return (
         <div className="new-location">
-            <h2>Location </h2>
+            <h2>Location Constellation Seen</h2>
+            <form onSubmit={handleSubmit}>
+                <input
+                    type="text"
+                    name="name"
+                    placeholder="Location Log"
+                    value={location}
+                    onChange={(e) => setLocation(e.target.value)}
+                />
+                <button type="submit">Add Location</button>
+            </form>
         </div>
-    )
-
+    );
 }
 
 
