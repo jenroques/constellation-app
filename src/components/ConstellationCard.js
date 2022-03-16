@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function ConstellationCard({ }) {
+function ConstellationCard({ constellations }) {
     
 
 }
