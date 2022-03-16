@@ -8,7 +8,7 @@ function ConstellationPage() {
     const [searchTerm, setSearchTerm] = useState("");
     
     useEffect(() => {
-        fetch("http://localhost:3000/constellations")
+        fetch("http://localhost:3001/constellations")
             .then((r) => r.json())
             .then((constellationArray) => {
                 setConstellations(constellationArray);
