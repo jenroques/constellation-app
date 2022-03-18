@@ -4,12 +4,21 @@ import './index.css';
 import App from "./components/App";
 import reportWebVitals from './reportWebVitals';
 import 'semantic-ui-react';
+import { BrowserRouter } from 'react-router-dom/cjs/react-router-dom.min';
+
+
+
+
+
 
 
 
 ReactDOM.render(
+
   <React.StrictMode>
+    <BrowserRouter>
     <App />
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
