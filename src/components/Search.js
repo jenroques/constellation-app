@@ -7,9 +7,9 @@ function Search({ searchTerm, onChangeSearch }) {
 
     return (
         <div className="ui search">
-            <div className="ui icon input">
-                <input className="prompt" placeName="Search..." value={searchTerm} onChange={handleChange} />
-                <i className="search icon" />
+            <div className="searchbar">
+            <label htmlFor="search">Search Constellations:</label>
+                <input className="prompt" placeholder="Search..." value={searchTerm} onChange={handleChange} />
             </div>
         </div>
     );

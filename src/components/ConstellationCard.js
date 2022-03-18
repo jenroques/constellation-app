@@ -1,19 +1,18 @@
 import React, { useState } from "react";
 import { Card } from "semantic-ui-react";
 
-function ConstellationCard({ constellation, onAddLocation }) {
-    const { id, name, image, location, about } = constellation;
+function ConstellationCard({ constellation }) {
+    const { id, name, image, phrase, family, about } = constellation;
 
 
     return (
         <Card>
-                <div className="image">
-                    <img src={image}></img>
+                <div className="card">
+                    <img src={image} alt={name} />
+                    <h3>{name}</h3>
+                    <p>"{phrase}"</p>
+                    <p><b>Family: </b>{family}</p>
                 </div>
-                <div className="content">
-                    <div className="header">{name}</div>
-                </div>
-            
         </Card>
     );
 }

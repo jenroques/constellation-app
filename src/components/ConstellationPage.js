@@ -15,16 +15,13 @@ function ConstellationPage() {
 
     
     const constellationsToDisplay = constellations.filter((constellation) => {
-        if(!constellation.name){debugger}
-        
-        return constellation.name.toLowerCase().includes(searchTerm.toLowerCase()) }
+       return constellation.name.toLowerCase().includes(searchTerm.toLowerCase()) }
     );
     
 
     return (
         <Container>
-            <h1>Constellations</h1>
-            <br />
+            <h3>Known Constellations</h3>
             <Search searchTerm={searchTerm} onChangeSearch={setSearchTerm} />
             <br />
             <ConstellationList constellations={constellationsToDisplay} />
