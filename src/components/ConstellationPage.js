@@ -13,9 +13,13 @@ function ConstellationPage() {
             .then(setConstellations)
     }, []);
 
-    const constellationsToDisplay = constellations.filter((constellation) =>
-        constellation.name.toLowerCase().includes(searchTerm.toLowerCase())
+    
+    const constellationsToDisplay = constellations.filter((constellation) => {
+        if(!constellation.name){debugger}
+        
+        return constellation.name.toLowerCase().includes(searchTerm.toLowerCase()) }
     );
+    
 
     return (
         <Container>

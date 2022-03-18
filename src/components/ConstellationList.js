@@ -4,7 +4,7 @@ import { Card } from "semantic-ui-react";
 
 function ConstellationList({ constellations, onAddLocation }) {
     const cards = constellations.map((constellation) => (
-        <ConstellationCard key={constellation.id} constellations={constellation} onAddLocation={onAddLocation} />
+        <ConstellationCard key={constellation.id} constellation={constellation} onAddLocation={onAddLocation} />
     ));
 
     return <Card.Group itemsPerRow={8}>{cards}</Card.Group>

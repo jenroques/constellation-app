@@ -8,7 +8,7 @@ function Search({ searchTerm, onChangeSearch }) {
     return (
         <div className="ui search">
             <div className="ui icon input">
-                <input className="prompt" value={searchTerm} onChange={handleChange} />
+                <input className="prompt" placeName="Search..." value={searchTerm} onChange={handleChange} />
                 <i className="search icon" />
             </div>
         </div>
