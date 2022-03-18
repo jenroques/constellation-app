@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import LocationLog from "./LocationLog";
 import ConstellationList from "./ConstellationList";
 import Search from "./Search";
+import { Container } from "semantic-ui-react";
 
 function ConstellationPage() {
     const [constellations, setConstellations] = useState([]);
@@ -10,27 +10,23 @@ function ConstellationPage() {
     useEffect(() => {
         fetch("http://localhost:3001/constellations")
             .then((r) => r.json())
-            .then((constellationArray) => {
-                setConstellations(constellationArray);
-            });
+            .then(setConstellations)
     }, []);
 
-
-    const displayedConstellations = constellations.filter((constellation) => {
-        return constellation.name.toLowerCase().includes(searchTerm.toLowerCase());
-    });
+    const constellationsToDisplay = constellations.filter((constellation) =>
+        constellation.name.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
     return (
-        <main>
-            <Search searchTerm={searchTerm} onSearchChange={setSearchTerm} />
-            <ConstellationList
-                constellations={displayedConstellations}
-            />
-        </main>
+        <Container>
+            <h1>Constellations</h1>
+            <br />
+            <Search searchTerm={searchTerm} onChangeSearch={setSearchTerm} />
+            <br />
+            <ConstellationList constellations={constellationsToDisplay} />
+        </Container>
     );
 }
-
-
 
 
 
