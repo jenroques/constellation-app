@@ -1,789 +1,704 @@
 {
-    "constellations": [
-        {
-           "id": 1, 
-           "name": "Andromeda",
-           "phrase": "The Chained Maiden",
-           "image": "http://www.constellationdirectory.org/images/andromeda.jpg",
-           "family": "Perseus", 
-           "about": "Andromeda is a large constellation in the Northern Hemisphere that is best seen in November. In addition to 'The Chained Maiden', Andromeda is also known as 'The Princess' and 'The Chained Lady.' Andromeda contains the Andromeda Galaxy, which is the closest galaxy to the Milky Way."
-        },
-
-        {
-            "id": 2,
-            "name": "Antlia",
-            "phrase": "The Air Pump",
-            "image": "http://www.constellationdirectory.org/images/antlia.jpg",
-            "family": "Lacaille", 
-            "about": "Antlia is a small constellation in the Southern Hemisphere that is best seen in April. Antlia was originally named 'Antlia Pneumatica and Machine Pneumatique' by Nicolas Louis de Lacaille in 1756 to commemorate the air pump, which had recently been invented."
-        },
-
-        {
-            "id": 3,
-            "name": "Apus",
-            "phrase": "The Bird of Paradise",
-            "image": "http://www.constellationdirectory.org/images/apus.jpg",
-            "family": "Bayer Group", 
-            "about": "Apus is a small and relatively dim constellation that is best seen in July in the Southern Hemisphere. It was named by Johann Bayer in the early 1600s and is one of 12 constellations that he designed to fill in the sky of the Southern Hemisphere, which previously had no official constellations."
-        },
-
-        {
-            "id": 4,
-            "name": "Aquarius",
-            "phrase": "The Water Bearer",
-            "image": "http://www.constellationdirectory.org/images/aquarius.jpg",
-            "family": "Zodiac", 
-            "about": "Aquarius is a large constellation in the Southern Hemisphere that can be seen during October. Aquarius is located in a section of the sky that is occasionally referred to as the 'water' section, due to the other water-related constellations in the area: Cetus, Delphinus, Eridanus, Pisces, and Piscis Austrinus. Aquarius is the radiant point of the Eta Aquarids meteor shower. It typically begins around April 16 and ends around May 28, peaking from May 6-7. The Eta Aquarids are named after the star Eta Aquarii and are created by the passage of Halley's Comet. In astrology, Aquarius is the eleventh sign of the Zodiac."
-        },
-
-        {
-            "id": 5,
-            "name": "Aquila",
-            "phrase": "The Eagle",
-            "image": "http://www.constellationdirectory.org/images/aquila.jpg",
-            "family": "Hercules", 
-            "about": "Aquila is an equatorial constellation visible during September. Aquila's brightest star, Altair, forms part an asterism called the Summer Triangle with Deneb (from Cygnus) and Vega (from Lyra). In 1999, Aquila was the source of a nova that could be seen with the naked eye. It was caused by the explosion of a white dwarf star located 13,000 light years away."
-        },
-
-        {
-            "id": 6,
-            "name": "Ara",
-            "phrase": "The Altar",
-            "image": "http://www.constellationdirectory.org/images/ara.jpg",
-            "family": "Hercules", 
-            "about": "Ara is a small constellation in the southern hemisphere that is best seen in the month July. It contains the Stingray Nebula (Hen-1357), which is the youngest known planetary nebula."
-        },
-
-        {
-            "id": 7,
-            "name": "Aries",
-            "phrase": "The Ram",
-            "image": "http://www.constellationdirectory.org/images/aries.jpg",
-            "family": "Zodiac", 
-            "about": "Aries is one of the twelve constellations of the Zodiac. It is located in the Northern Hemisphere and is best viewed in December. Aries used to contain the vernal equinox (meaning the sun would pass through Aries on the equinox), but due to Earth's precession the equinox has moved into Pisces."
-        },
-
-        {
-            "id": 8, 
-            "name": "Auriga",
-            "phrase": "The Charioteer",
-            "image": "http://www.constellationdirectory.org/images/auriga.jpg",
-            "family": "Perseus", 
-            "about": "Auriga is a constellation in the Northern Hemisphere that is visible during the month of February. Auriga contains Capella, which is the third-brightest star in the Northern Hemisphere (after Arcturus from Boötes and Vega from Lyra) and the sixth-brightest star in the entire night sky. Mythology related to Auriga varies considerably. Sometimes Auriga is considered as a symbol of a mythical figure of the same name; sometimes Auriga is described as representing Erichthonius, King of Athens, said to have developed the chariot."
-        },
-
-        {
-            "id": 9,
-            "name": "Boötes",
-            "phrase": "The Herdsman",
-            "image": "http://www.constellationdirectory.org/images/bootes.jpg",
-            "family": "Ursa Major", 
-            "about": "Boötes is a large constellation in the Northern Hemisphere. It is best seen during June. Arcturus, the brightest star in Boötes, is also the brightest star in the Northern Hemisphere and the fourth-brightest in the entire night sky."
-        },
-
-        {
-            "id": 10,
-            "name": "Caelum",
-            "phrase":  "The Engraving Tool",
-            "image": "http://www.constellationdirectory.org/images/caelum.jpg",
-            "family": "Lacaille", 
-            "about": "This small constellation in the Southern Hemisphere was named by Nicolas Louis de Lacaille in the 1800s. It is best seen in January."
-        },
-
-        {
-            "id": 11,
-            "name": "Camelopardalis",
-            "phrase": "The Giraffe",
-            "image": "http://www.constellationdirectory.org/images/camelopardalis.jpg",
-            "family": "Ursa Major", 
-            "about": "Camelopardalis is the 18th-largest constellation in the sky. It is visible in the Northern Hemisphere during February. Camelopardalis is a relatively dim constellation since it has no stars that are brighter than fourth magnitude. Camelopardalis is occasionally referred to as Camelopardalus and Camelopardus."
-        },
-
-        {
-            "id": 12,
-            "name": "Cancer",
-            "phrase": "The Crab",
-            "image": "http://www.constellationdirectory.org/images/cancer.jpg",
-            "family": "Zodiac",
-            "about": "Cancer is located in the Northern Hemisphere and is visible in March. It is a relatively dim constellation since its brightest star is only fourth magnitude. In astrology, Cancer is the fourth sign of the zodiac."
-        },
-
-        {
-            "id": 13, 
-            "name": "Canes Venatici",
-            "phrase": "The Hunting Dogs",
-            "image": "http://www.constellationdirectory.org/images/canes_venatici.jpg",
-            "family": "Ursa Major", 
-            "about": "Canes Venatici is a constellation in the Northern Hemisphere. It is visible in May. A star in Canes Venatici, Y Canum Venaticorum, is one of the brightest and reddest carbon stars in the sky in addition to being one of the coldest visible stars. It was named 'La Superba' by Angelo Secchi in the 1800s for its color."
-        },
-
-        {
-            "id": 14,
-            "name": "Canis Major",
-            "phrase": "The Great Dog",
-            "image": "http://www.constellationdirectory.org/images/canis_major.jpg",
-            "family": "Orion",
-            "about": "Canis Major is a constellation in the Southern Hemisphere that is best viewed in February. Canis Major's luminary, Sirius, is the brightest star in the entire night sky and also one of the brightest objects, as only the Moon, Mars, Venus, and Jupiter shine brighter. Sometimes referred to as the Dog Star, Sirius marks a corner of the Winter Triangle, which is a near-equilateral triangle formed by Sirius, Betelgeuse from Orion, and Procyon from Canis Minor."
-        },
-
-        {
-            "id": 15,
-            "name": "Canis Minor",
-            "phrase": "The Lesser Dog",
-            "image": "http://www.constellationdirectory.org/images/canis_minor.jpg",
-            "family": "Orion", 
-            "about": "Canis Minor is a small constellation in the Northern Hemisphere. It is best seen in March. Procyon, a binary star system and Canis Minor's luminary, is the eighth-brightest star in the night sky. Procyon, Sirius (from Canis Major), and Betelgeuse (from Orion) form a triangular asterism called the Winter Triangle, which is an almost perfect equilateral triangle. In addition, Procyon, Sirius, Aldebaran (from Taurus), Capella (from Auriga), Pollux (from Gemini), and Rigel (from Orion) form a collection of stars called the Winter Hexagon or Winter Circle."
-        },
-
-        {
-            "id": 16,
-            "name": "Capricornus",
-            "phrase": "The Sea Goat",
-            "image": "http://www.constellationdirectory.org/images/capricornus.jpg",
-            "family": "Zodiac",
-            "about": "Capricornus, also known as Capricorn, is one of the 12 constellations of the zodiac and lies in the Southern Hemisphere. With no stars above third magnitude, it is one of the dimmest constellations in the night sky. It is best seen in September."
-        },
-
-        {
-            "id": 17,
-            "name": "Carina",
-            "phrase": "The Keel",
-            "image": "http://www.constellationdirectory.org/images/carina.jpg",
-            "family": "Heavenly Waters",
-            "about": "Carina is a constellation in the Southern Hemisphere that is best viewed in March. Canopus, Carina's luminary, is the second-brightest star in the entire night sky, surpassed only by Sirius from Canis Major."
-        },
-
-        {
-            "id": 18,
-            "name": "Cassiopeia",
-            "phrase": "The Seated Queen",
-            "image": "http://www.constellationdirectory.org/images/cassiopeia.jpg",
-            "family": "Perseus", 
-            "about": "Cassiopeia is a constellation in the Northern Hemisphere that is best seen in November. Cassiopeia was the location of two notable supernovae. The earliest supernova was recorded by observers as first appearing in November of 1572; among the stargazers who spotted the exploding star was Danish astronomer Tycho Brahe, after whom the supernova is named. Brahe called the star Stella Nova, or 'new star', since the star had not been visible before the supernova occurred. It shone during the day for two weeks after the initial explosion and could be seen with the naked eye for 16 months. It is possible that the supernova inspired part of the dialogue of the first scene in Hamlet by Shakespeare, as there is evidence that the playwright knew of Brahe's work. The second supernova probably occurred around 1680, and the star that exploded is called Cassiopeia A. It is the strongest source of radio signals other than the Solar System and was first detected by radio astronomers in 1947."
-        },
-
-        {
-            "id": 19,
-            "name": "Centaurus",
-            "phrase": "The Centaur",
-            "image": "http://www.constellationdirectory.org/images/centaurus.jpg",
-            "family": "Hercules", 
-            "about": "Centaurus is one of the largest constellations in the sky and contains the highest number of stars visible with the naked eye. It is located in the Southern Hemisphere and can best be seen in May. Rigil Kentaurus, also called by its Bayer designation of Alpha Centauri, is Centaurus' most luminous star and is the third-brightest star in the night sky. Near Rigil Kentaurus is Proxima Centauri, which is the closest known star to Sun at 4.24 light years away although it is not visible to the naked eye."
-        },
-
-        {
-            "id": 20,
-            "name": "Cepheus",
-            "phrase": "The King",
-            "image": "http://www.constellationdirectory.org/images/cepheus.jpg",
-            "family": "Perseus", 
-            "about": "Cepheus is not a bright constellation, but it is visible throughout the Northern Hemisphere. It is best seen in October. In Greek mythology, Cepheus was the King of Ethiopia, husband of Cassiopeia and father of Andromeda."
-        },
-
-        {
-            "id": 21,
-            "name": "Cetus",
-            "phrase": "The Sea Monster",
-            "image": "http://www.constellationdirectory.org/images/cetus.jpg",
-            "family": "Perseus", 
-            "about": "Cetus is a large constellation located near the equator. It is best seen in December. The English name for Cetus varies, as it is sometimes written as 'The Sea Monster' and other times referred to as 'The Whale.' Either way, Cetus is associated with the so-called 'water' section of the sky, since there are a number of constellations in the area that are connected to water: Aquarius, Delphinus, Eridanus, Pisces, and Piscis Austrinus. Cetus is the location of the first variable star to be discovered. Omicron Ceti, or Mira, was originally observed by David Fabricius in 1596."
-        },
-
-        {
-            "id": 22,
-            "name": "Chamaeleon", 
-            "phrase": "The Chamaeleon",
-            "image": "http://www.constellationdirectory.org/images/chamaeleon.jpg",
-            "family": "Bayer Group",
-            "about": "Chamaeleon is a small constellation in the Southern Hemisphere that is best seen in April. It is a circumpolar constellation, meaning it appears to rotate around the Earth's pole in the sky and never sets; Chamaeleon is visible all night long at southern latitudes. The constellation was originally introduced by Johann Bayer in 1603 when he developed his star atlas Uranometria."
-        },
-
-        {
-            "id": 23,
-            "name": "Circinus",
-            "phrase": "The Compass",
-            "image": "http://www.constellationdirectory.org/images/circinus.jpg",
-            "family": "Lacaille",
-            "about": "Circinus is a very small constellation in the Southern Hemisphere. It is best seen in June. Circinus represents the type of compass used by navigators to measure distances. It was named by Nicolas Louis de Lacaille in the 1700s."
-        },
-
-        {
-            "id": 24,
-            "name": "Columba",
-            "phrase": "The Dove",
-            "image": "http://www.constellationdirectory.org/images/columba.jpg",
-            "family": "Heavenly Waters", 
-            "about": "Columba is a dim constellation in the Southern Hemisphere that is best seen in February. There are two myths relating to Columba. In one story from Greek mythology, Columba represents the bird Jason and the Argonauts released ahead of them to help them navigate through the Black Sea. In another story, the constellation is a biblical symbol of the dove that Noah—of Noah's Ark—sent out and which returned with an olive branch after it found dry land."
-        },
-
-        {
-            "id": 25,
-            "name": "Coma Berenices",
-            "phrase": "Berenice's Hair",
-            "image": "http://www.constellationdirectory.org/images/coma_berenices.jpg",
-            "family": "Ursa Major",
-            "about": "Coma Berenices is a faint constellation in the Northern Hemisphere that is best viewed in May. While there are no stars above fourth magnitude present, Coma Berenices does include a large number of interesting deep sky objects. The name Coma Berenices refers to the hair of Queen Berenice II, who was the wife of Ptolemy III of Egypt. She sacrificed her hair to the goddess Aphrodite after her husband safely returned from a mission overseas; Aphrodite was pleased with the offering and placed the hair in the sky."
-        },
-
-        {
-            "id": 26,
-            "name": "Corona Borealis",
-            "phrase": "The Northern Crown",
-            "image": "http://www.constellationdirectory.org/images/corona_borealis.jpg",
-            "family": "Coronae Borealis", 
-            "about": "Corona Borealis is a small constellation located in the Northern Hemisphere that is best seen in July. In Greek mythology, Corona Borealis represents a crown forged by Hephaestus and given to Ariadne, daughter of King Minos of Crete. "
-        },
-
-        {
-            "id": 27,
-            "name": "Corvus",
-            "phrase": "The Crow",
-            "image": "http://www.constellationdirectory.org/images/corvus.jpg",
-            "family": "Hercules", 
-            "about": "Corvus is a small constellation in the Southern Hemisphere that is best seen in May. n Greek mythology, Corvus represents a crow or raven sent by Apollo to fetch water and bring it back to him. However, the crow wasted time eating figs instead of returning to the god immediately, and Apollo punished it with eternal thirst. The Greeks thought that this thirst was the reason why crows produce loud, rough caws instead of the sweeter songs of other birds."
-        },
-
-        {
-            "id": 28,
-            "name": "Crater",
-            "phrase": "The Cup",
-            "image": "http://www.constellationdirectory.org/images/crater.jpg",
-            "family": "Hercules", 
-            "about": "Crater is a small constellation in the Southern Hemisphere composed of relatively dim stars. It can be seen during April. Crater is the site of the Eta Craterids meteor shower which occurs every year from January 11-22. In Greek mythology, Crater represents the cup of the god Apollo."
-        },
-
-        {
-            "id": 29,
-            "name": "Crux",
-            "phrase": "The Southern Cross",
-            "image": "http://www.constellationdirectory.org/images/crux.jpg",
-            "family": "Hercules", 
-            "about": "Crux is located in the Southern Hemisphere and is best seen in May. Crux is the smallest official constellation; however, it is also one of the most distinctive constellations in the Southern Hemisphere. It contains Acrux, the thirteenth-brightest star in the night sky, and historically Crux was frequently used by sailors to determine the position of the south pole. Crux is represented in the national flags of Australia, Brazil, New Zealand, Papua New Guinea, and Samoa."      
-        },
-
-        {
-            "id": 30,
-            "name": "Cygnus",
-            "phrase": "The Swan",
-            "image": "http://www.constellationdirectory.org/images/cygnus.jpg",
-            "family": "Hercules", 
-            "about": "Cygnus is a distinctive constellation in the Northern Hemisphere that is best seen in September. Due to its shape, it is occasionally referred to as the Northern Cross. The brightest star in Cygnus, Deneb, is one of three stars that form an asterism called the Summer Triangle which is visible at northern latitudes during the summer. The other two stars in the Summer Triangle are Altair from Aquila and Vega from Lyra."
-        },
-
-        {
-            "id": 31,
-            "name": "Delphinus",
-            "phrase": "The Dolphin",
-            "image": "http://www.constellationdirectory.org/images/delphinus.jpg",
-            "family": "Heavenly Waters", 
-            "about": "Delphinus is a small constellation in the Northern Hemisphere that can be seen in September. Two of the stars in Delphinus, Rotanev and Sualocin, honor Niccolo Cacciatore, who was an assistant to an Italian astronomer named Giuseppe Piazzi who lived from 1746-1826. The Latinized version of Cacciatore's name is Nicolaus Venator, which is Sualocin Rotanev when spelled in reverse. His name was split and assigned to stars Alpha and Beta Delphini."
-        },
-
-        {
-            "id": 32,
-            "name": "Dorado",
-            "phrase": "The Swordfish",
-            "image": "http://www.constellationdirectory.org/images/dorado.jpg",
-            "family": "Bayer Group", 
-            "about": "Dorado is a small constellation in the Southern Hemisphere that is best seen in January. Dorado contains the south ecliptic pole. The two ecliptic poles, one south and one north, are the points where a line perpendicular to the ecliptic (the apparent path of the Sun through the sky) meets the celestial sphere, the imaginary sphere surrounding Earth onto which are mapped all the objects observed in the sky."
-        },
-
-        {
-            "id": 33,
-            "name": "Draco",
-            "phrase": "The Dragon",
-            "image": "http://www.constellationdirectory.org/images/draco.jpg",
-            "family": "Ursa Major", 
-            "about": "Draco is a large constellation in the Northern Hemisphere that is best seen in July. Draco used to include the pole star—the star closest to the North Pole—but due to Earth's precession, or Earth's 'wobble' along its axis of rotation, the pole star is now Polaris, which is located in Ursa Major. Draco will be home to the pole star again in the year 20346, since precession is a cyclical process that occurs over thousands of years."
-        },
-
-        {
-            "id": 34,
-            "name": "Equuleus",
-            "phrase": "The Little Horse",
-            "image": "http://www.constellationdirectory.org/images/equuleus.jpg",
-            "family": "Heavenly Waters", 
-            "about": "Equuleus is located in the Northern Hemisphere and is best viewed in September. Occasionally referred to as 'The Foal' instead of 'The Little Horse', Equuleus is the second-smallest constellation in the night sky; the only constellation smaller than Equuleus is Crux. Kitalpha, Alpha Equulei, is a binary star system consisting of a G-class giant star and a white dwarf star that orbit each other every 99 days at a distance of 99 million kilometers."            
-        },
-
-        {
-            "id": 35,
-            "name": "Eridanus",
-            "phrase": "The River",
-            "image": "http://www.constellationdirectory.org/images/eridanus.jpg",
-            "family": "Heavenly Waters", 
-            "about": "Eridanus is the sixth-largest and the second-longest constellation (after Hydra), and its luminary is the ninth-brightest star in the night sky. It is visible in the Southern Hemisphere and best seen in December. Eridanus is located in a section of the sky called the water section due to the number of water-related constellations in the surrounding sky: Aquarius, Cetus, Delphinus, Pisces, and Piscis Austrinus. Some scientists propose the existence of a so-called 'Great Void' in Eridanus to explain a cold spot in the cosmic microwave background radiation. Voids in the universe are areas of space where there is no matter present, both normal matter and dark matter. If the void was proved to exist, the Eridanus void could be as large as 1 billion light years across."
-        },
-
-        {
-            "id": 36,
-            "name": "Fornax",
-            "phrase": "The Furnance",
-            "image": "http://www.constellationdirectory.org/images/fornax.jpg",
-            "family": "Lacaille",
-            "about": "Fornax is located in the Southern Hemisphere and is best seen in December. The Fornax Cluster, a cluster of galaxies in this constellation, is the second-closest galaxy cluster to Earth and is one of the largest radio sources in the sky. The cause of the radio signals is a supermassive black hole at the center of galaxy NGC 1316. Fornax is also the location of the Hubble Ultra Deep Field. The HUDF is a small region of space that the Hubble Telescope focused on for an extended period of time due to the lack of galaxies in the near field in that part of the sky. A combination of data from 2003 to 2014 (a total of 814 orbits of viewing time by the telescope) resulted in an image containing around 10,000 galaxies.Fornax was originally named and created by Nicolas Louis de Lacaille in the mid-1700s."
-        },
-
-        {
-            "id": 37,
-            "name": "Gemini",
-            "phrase": "The Twins",
-            "image": "http://www.constellationdirectory.org/images/gemini.jpg",
-            "family": "Zodiac",
-            "about": "Gemini is a constellation in the Northern Hemisphere that is visible during February. It is one of the twelve constellations of the Zodiac. Castor and Pollux, Alpha and Beta Geminorum, are two of the brightest stars in the night sky. Pollux, Capella (from Auriga), Sirius (from Canis Major), Procyon (from Canis Minor), Rigel (from Orion), and Aldebaran (from Taurus) form an asterism called the Winter Circle or Winter Hexagon. Gemini is the radiant point of the Geminid meteor shower. It occurs annually from December 4-17 and peaks around December 14. Up to 120 meteors per hour can be seen at the shower's peak. Unlike many other meteor showers, the Geminids are not created by a comet—they are actually created by an asteroid called 3200 Phaethon that orbits the Sun every 1.4 years."
-        },
-
-        {
-            "id": 38,
-            "name": "Grus",
-            "phrase": "The Crane",
-            "image": "http://www.constellationdirectory.org/images/grus.jpg",
-            "family": "Bayer Group", 
-            "about": "Grus is a constellation in the Southern Hemisphere. It is best seen in October. Grus was named by Johann Bayer in 1603 when he published his star atlas Uranometria. Grus used to be part of Piscis Austrinus, but the stars of Grus were separated out and turned into a new constellation. Although officially designated as 'The Crane' by the International Astronomical Union (IAU), Grus used to be called Phoenicopterus, or 'The Flamingo.'"
-        },
-
-        {
-            "id": 39,
-            "name": "Hercules",
-            "phrase": "The Hero",
-            "image": "http://www.constellationdirectory.org/images/hercules.jpg",
-            "family": "Hercules",
-            "about": "Hercules is the fifth-largest constellation in the sky, although it is composed of relatively dim stars. It is best seen in July in the Northern Hemisphere. Hercules contains M13, a globular cluster of approximately 300,000 stars that appears as a faint spot of light to the naked eye. It is considered to be one of the finest clusters in the northern hemisphere. Four stars in Hercules (Eta, Pi, Epsilon, and Zeta Herculis) form an asterism called the Keystone. It is a roughly square arrangement of stars that denotes Hercules' pelvis and torso."
-        },
-
-        {
-            "id": 40,
-            "name": "Horologium",
-            "phrase": "The Clock",
-            "image": "http://www.constellationdirectory.org/images/horologium.jpg",
-            "family": "Lacaille", 
-            "about": "Horologium is a constellation in the Southern Hemisphere. It is best seen in December. Horologium was created in the mid-1700s by Nicolas Louis de Lacaille. He originally named it Horologium Oscillitorium in honor of the pendulum clock which was invented by Christiaan Huygens in the previous century. This constellation contains the Horologium Supercluster (also called the Horologium-Reticulum Supercluster) which is a massive cluster of galaxies 550 million light years in length. It is the largest supercluster within 1 billion light years."
-        },
-
-        {
-            "id": 41,
-            "name": "Hydra",
-            "phrase": "The Female Water Snake",
-            "image": "http://www.constellationdirectory.org/images/hydra.jpg",
-            "family": "Hercules", 
-            "about": "Hydra is the largest (and the longest) constellation, covering over 3% of the night sky. It is visible throughout much of both hemispheres and is best seen in April. The northernmost star in Hydra is Epsilon Hydrae, which is a quintuple star system where five individual stars orbit each other."
-        },
-
-        {
-            "id": 42,
-            "name": "Hydrus", 
-            "phrase": "The Male Water Snake",
-            "image": "http://www.constellationdirectory.org/images/hydrus.jpg",
-            "family": "Bayer Group",
-            "about": "Hydrus is a small constellation in the southern hemisphere that is best seen in December. It is one of twelve constellations named by Johann Bayer in his star atlas Uranometria, which was published in 1603. While they share similar names, Hydrus should not be confused with Hydra, a significantly larger and separate constellation."            
-        },
-
-        {
-            "id": 43,
-            "name": "Indus",
-            "phrase": "The Indian",
-            "image": "http://www.constellationdirectory.org/images/indus.jpg",
-            "family": "Bayer Group",
-            "about": "Indus is a constellation in the Southern Hemisphere that consists of relatively faint stars. It is best seen during September. Indus was first introduced in 1603 when Johann Bayer published his star atlas Uranometria."
-        },
-
-        {
-            "id": 44,
-            "name": "Lacerta",
-            "phrase": "The Lizard",
-            "image": "http://www.constellationdirectory.org/images/lacerta.jpg",
-            "family": "Perseus",
-            "about": "Lacerta is a small constellation in the Northern Hemisphere. It is best seen in October. Lacerta was originally introduced by Johannes Hevelius in 1690. This constellation contains the object BL Lacertae. BL Lacertae is a blazar, which is a quasar with one of its jets oriented so that it points directly toward Earth. A quasar is a unique type of galaxy that has a supermassive black hole spinning at its center. As matter falls in toward the black hole due to gravitational attraction, it is then propelled outward in jets that are caused by a magnetic field generated by the black hole's spin. "
-        },
-
-        {
-            "id": 45,
-            "name": "Leo",
-            "phrase": "The Lion",
-            "image": "http://www.constellationdirectory.org/images/leo.jpg",
-            "family": "Zodiac",
-            "about": "Leo is a large constellation in the Northern Hemisphere that is best seen in April. Leo is home to the Leonid meteor shower, an annual meteor shower that typically begins on November 13 and ends on November 21, peaking around November 17-18. Up to 20 meteors per hour can be seen at the shower's peak. This constellation contains the star Wolf 359, which is a red dwarf star and the fifth-closest star to Earth, not including the Sun and after the stars in the Alpha Centauri system and Barnard's Star in Ophiuchus. Wolf 359 is about 16% of the size of the Sun and is also quite dim, having a luminosity equivalent to about 10 full moons. In astrology, Leo is the fifth constellation of the zodiac."
-        },
-
-        {
-            "id": 46,
-            "name": "Leo Minor",
-            "phrase": "The Lesser Lion",
-            "image": "http://www.constellationdirectory.org/images/leo_minor.jpg",
-            "family": "Ursa Major",
-            "about": "Leo Minor is a small constellation in the Northern Hemisphere that is best seen in April. Leo Minor was first introduced as a constellation by Johannes Hevelius in 1690. Leo Minor is relatively dim compared to the other lion constellation in the sky, Leo, and has no alpha star. Instead, 46 Leonis Minoris is Leo Minor's brightest star and it is called Praecipua, which means 'principal star'. Leo Minor is occasionally referred to as 'The Lion Cub' and 'The Smaller Lion' as well as being called 'The Lesser Lion.'"
-        },
-
-        {
-            "id": 47, 
-            "name": "Lepus",
-            "phrase": "The Hare",
-            "image": "http://www.constellationdirectory.org/images/lepus.jpg",
-            "family": "Orion",
-            "about": "Lepus is a small constellation in the Southern Hemisphere located at the feet of Orion. It is best seen in February. In Greek mythology, Lepus is usually considered one of the animals Orion hunts with this dogs Canis Major and Canis Minor."
-        },
-
-        {
-            "id": 48,
-            "name": "Libra",
-            "phrase": "The Scales",
-            "image": "http://www.constellationdirectory.org/images/libra.jpg",
-            "family": "Zodiac",
-            "about": "Libra is one of the twelve constellations of the zodiac. It is located in the Southern Hemisphere and is best seen during June. Because it used to include the location of the Sun during the autumnal equinox when the length of day and night are exactly equal, Libra is frequently associated with justice and equality. It is the only zodiac symbol that is not a living creature. This constellation contains the location of planetary system Gliese 581, which consists of three known planets (Gliese 581 b, 581 c, and 581 e) orbiting a red dwarf star."
-        },
-
-        {
-            "id": 49,
-            "name": "Lupus",
-            "phrase": "The Wolf",
-            "image": "http://www.constellationdirectory.org/images/lupus.jpg",
-            "family": "Hercules",
-            "about": "Lupus is a constellation located in the Southern Hemisphere. It is best seen in June. Lupus was the location of supernova SN 1006, the brightest stellar event in recorded history. It occurred from April 30 to May 1 of the year 1006. Visible from Earth, the supernova was three times brighter than Venus and a quarter of the Moon's brightness. Some scientists have proposed that the supernova was caused by the collision of two white dwarf stars. Including SN 1006, there have been only four supernovae of this type observed in the Milky Way."
-        },
-
-        {
-            "id": 50,
-            "name": "Lynx",
-            "phrase": "The Lynx",
-            "image": "http://www.constellationdirectory.org/images/lynx.jpg",
-            "family": "Ursa Major",
-            "about": "Lynx is a faint constellation in the Northern Hemisphere. It is best viewed in March. Lynx was originally created by Johannes Hevelius in 1690. It appears as a bumpy line in the night sky and does not directly outline the shape of a lynx, which is a wild cat that lives in North America, Europe, and Asia."
-        },
-
-        {
-            "id": 60,
-            "name": "Lyra",
-            "phrase": "The Lyre",
-            "image": "http://www.constellationdirectory.org/images/lyra.jpg",
-            "family": "Hercules",
-            "about": "Lyra is a small constellation in the Northern Hemisphere that is best seen in August. The constellation's brightest star, Vega, is the fifth-brightest star in the night sky. Vega forms an asterism known as the Summer Triangle with stars Altair from Aquila and Deneb from Cygnus. Lyra contains the location of the 'Double Double' star, a quadruple star system that appears as a single point of light when viewed without a telescope. This part of the sky is also home to the Lyrid meteor shower, which occurs every year from April 16-25."
-        },
-
-        {
-            "id": 61,
-            "name": "Mensa",
-            "phrase": "The Table Mountain",
-            "image": "http://www.constellationdirectory.org/images/mensa.jpg",
-            "family": "Lacaille",
-            "about": "Mensa is a small constellation in the Southern Hemisphere that is best viewed in January. Mensa was created by Nicolas Louis de Lacaille in the mid-1700s and originally named Mons Mensa, which directly translates to 'the Table Mountain.' The constellation retains the translation of its original name but Mons Mensa was shortened to Mensa."
-        },
-
-        {
-            "id": 62,
-            "name": "Microscopium",
-            "phrase": "The Microscope",
-            "image": "http://www.constellationdirectory.org/images/microscopium.jpg",
-            "family": "Lacaille",
-            "about": "Microscopium is a small constellation in the Southern Hemisphere that is best viewed in September. It was originally named by Nicolas Louis de Lacaille around 1750 in honor of the invention of the microscope. Gamma Microscopii, the constellation's brightest star, is currently moving away from the Sun at a rate of around 15 kilometers per second. Calculation of its path through space in relation to the Earth leads to the conclusion that Gamma Mic was the brightest star in the night sky about 3.8 million years ago."
-        },
-
-        {
-            "id": 63,
-            "name": "Monoceros",
-            "phrase": "The Unicorn",
-            "image": "http://www.constellationdirectory.org/images/monoceros.jpg",
-            "family": "Orion",
-            "about": "Monoceros is a faint constellation near the equator. It is best seen in February. The brightest star in the constellation, Beta Monocerotis, is a unique triple star system. The three stars form a distinct triangle when viewed through a telescope. Monoceros includes the location of Plaskett's star, which is one of the most massive binary stars discovered in the universe. The two stars have a combined mass of around 100 times the mass of the Sun and orbit a common center of gravity every 14.4 days."
-        },
-
-        {
-            "id": 64, 
-            "name": "Musca",
-            "phrase": "The Fly",
-            "image": "http://www.constellationdirectory.org/images/musca.jpg",
-            "family": "Bayer Group",
-            "about": "Musca is a small constellation in the Southern Hemisphere. It is best seen in May. Musca was first introduced by Johann Bayer in 1603 when he published his star atlas Uranometria. It was formerly referred to as Musca Australis vel Indica or the 'Southern or Indian Fly' to differentiate it from a now-obsolete constellation called the Northern Fly, or Musca Borealis."
-        },
-
-        {
-            "id": 65,
-            "name": "Norma",
-            "phrase": "The Carpenter's Square",
-            "image": "http://www.constellationdirectory.org/images/norma.jpg",
-            "family": "Lacaille",
-            "about": "Norma is a small constellation in the Southern Hemisphere that is best seen in July. It was created by Nicolas Louis de Lacaille around 1750 and originally named Norma et Regula or 'The Level and the Square.'"
-        },
-
-        {
-            "id": 66,
-            "name": "Octans",
-            "phrase": "The Octant",
-            "image": "http://www.constellationdirectory.org/images/octans.jpg",
-            "family": "Lacaille",
-            "about": "Octans is a small constellation in the Southern Hemisphere. It is best viewed in October. Octans is circumpolar, meaning that it never disappears below the horizon in the Southern Hemisphere, and it also contains the south celestial pole, which is the point of intersection between Earth's axis and the celestial sphere. Octans was invented by Nicolas Louis de Lacaille in the mid-1700s. It was named after the octant, a measuring tool used in astronomy and navigation."
-        },
-
-        {
-            "id": 67,
-            "name": "Ophiuchus",
-            "phrase": "The Serpent Bearer",
-            "image": "http://www.constellationdirectory.org/images/ophiuchus.jpg",
-            "family": "Hercules, Zodiac",
-            "about": "Ophiuchus is a large constellation lying along the celestial equator. It is best seen in July. While most of the stars in Ophiuchus are relatively dim, the constellation can be recognized by its distinctive teapot shape. It contains Barnard's Star, which is a red dwarf star only six light years away, making it the fourth-closest star to the Sun after stars in Centaurus. While it is not officially classified as one of the constellations of the Zodiac, Ophiuchus lies along the ecliptic, or the path that the Sun appears to follow in the sky throughout the year. All of the other constellations located along this path are considered part of the Zodiac."
-
-            
-        },
-
-        {
-            "id": 68,
-            "name": "Orion",
-            "phrase": "The Hunter",
-            "image": "http://www.constellationdirectory.org/images/orion.jpg",
-            "family": "Orion",
-            "about": "Orion is one of the most distinctive constellations in the sky. It is located along the equator and is best seen during January. It contains Rigel, or Beta Orionis, the seventh-brightest star in the night sky, as well as Alpha Orionis, or Betelgeuse, which is the tenth-brightest star. Betelgeuse, Sirius (from Canis Major), and Procyon (from Canis Minor) form an asterism called the Winter Triangle. In addition, Rigel, Sirius, Procyon, Aldebaran (from Taurus), Capella (from Auriga), and Pollux (from Gemini) form another asterism called the Winter Hexagon or the Winter Circle. Orion is home to the Orionid meteor shower, an annual meteor shower that occurs from October to November. At its peak, a date that usually falls around October 20, there can be up to around 20 meteors per hour."
-        },
-
-        {
-            "id": 69,
-            "name": "Pavo",
-            "phrase": "The Peacock",
-            "image": "http://www.constellationdirectory.org/images/pavo.jpg",
-            "family": "Bayer Group",
-            "about": "Pavo is a constellation in the Southern Hemisphere that is best seen in September. Pavo was originally named by Johann Bayer in 1603 when he published his star atlas Uranometria; it is one of twelve southern constellations that he introduced. Some of the stars in Pavo form an asterism called 'the Saucepan', which points toward the southern celestial pole and acts as a navigational tool. The star Delta Pavonis has been the subject of significant scientific interest. Given its similarity and proximity to the Sun, it was classified as a top target for a couple of NASA programs that would have aimed to discover planets in orbit around host stars. In addition, the Search for Extraterrestrial Intelligence (SETI) Institute has described Delta Pavonis as one of its 'best' targets."
-        },
-
-        {
-            "id": 70,
-            "name": "Pegasus",
-            "phrase": "The Winged Horse",
-            "image": "http://www.constellationdirectory.org/images/pegasus.jpg",
-            "family": "Perseus",
-            "about": "Pegasus is the seventh-largest constellation in the sky. It is located in the Northern Hemisphere and is best viewed in October. Pegasus represents the front half of a winged horse oriented upside down. It is often identified by the square formed by three stars in Pegasus and the star Alpheratz from Andromeda which lies on the border of the two constellations."
-        },
-
-        {
-            "id": 71,
-            "name": "Perseus", 
-            "phrase": "The Hero",
-            "image": "http://www.constellationdirectory.org/images/perseus.jpg",
-            "family": "Perseus",
-            "about": "Perseus is a constellation located in the Northern Hemisphere that is visible during December. It is home to the Perseid meteor shower which peaks around August 9-13 and can produce up to 60-100 meteors per hour. In 2006, Perseus became the location of the largest supernova on record when a star 100-200 times more massive than the Sun exploded. The supernova took place in galaxy NGC 1260, around 240 million light years away."
-        },
-
-        {
-            "id": 72,
-            "name": "Phoenix",
-            "phrase": "The Phoenix",
-            "image": "http://www.constellationdirectory.org/images/phoenix.jpg",
-            "family": "Bayer Group",
-            "about": "Phoenix is a constellation in the Southern Hemisphere that is best seen in November. Pavo was first introduced in the 1600s by Johann Bayer. Bayer created twelve new constellations in the Southern Hemisphere, including Phoenix, when he published his star atlas Uranometria in 1603."
-        },
-
-        {
-            "id": 73,
-            "name": "Pictor",
-            "phrase": "The Painter's Easel",
-            "image": "http://www.constellationdirectory.org/images/pictor.jpg",
-            "family": "Lacaille",
-            "about": "Pictor is a small constellation in the Southern Hemisphere. It is best viewed in February. Pictor was first introduced by Nicolas Louis de Lacaille in the mid-1700s after he visited the Cape of Good Hope in Africa. His original name for Pictor was 'Le Chevalet et la Palette' or 'The Painter's Easel and Palette.'"
-        },
-
-        {
-            "id": 74,
-            "name": "Pisces",
-            "phrase": "The Fishes",
-            "image": "http://www.constellationdirectory.org/images/pisces.jpg",
-            "family": "Zodiac",
-            "about": "Pisces is a large constellation in the Northern Hemisphere that is best seen in November. It is one of the constellations of the zodiac and is the last of the 12 signs, after Aquarius and before Aries. The two fish in Pisces used to be represented as facing (or swimming) in the same direction, but now they are more commonly depicted as pointing in opposite directions. In Greek mythology, Pisces represents Aphrodite and Eros (or Venus and Cupid in Roman mythology) who turned into fish to escape the monster Typhon when he appeared and threatened the gods."
-        },
-
-        {
-            "id": 75,
-            "name": "Piscis Austrinus",
-            "phrase": "The Southern Fish",
-            "image": "http://www.constellationdirectory.org/images/piscis_austrinus.jpg",
-            "family": "Heavenly Waters",
-            "about": "Piscis Austrinus is a small constellation in the Southern Hemisphere that is visible during October. Its luminary, Fomalhaut, is the eighteenth-brightest star in the night sky. Piscis Austrinus belongs to the 'water' section of the sky, so called because of the number of water-related constellations in the surrounding sky: Aquarius, Cetus, Delphinus, Eridanus, and Pisces. In addition, Piscis Austrinus is a particularly old constellation; it has origins tracing back to Babylonian times."
-        },
-
-        {
-            "id": 76,
-            "name": "Puppis",
-            "phrase": "The Stern",
-            "image": "http://www.constellationdirectory.org/images/puppis.jpg",
-            "family": "Heavenly Waters",
-            "about": "Puppis is one of the largest constellations in the Southern Hemisphere. It is best seen in March. Puppis used to be part of a much bigger constellation called Argo Navis, which in Greek mythology represented the ship Jason and the Argonauts sailed on during their mission to find the Golden Fleece (often associated with Aries). Argo Navis was split into four separate constellations when the International Astronomical Union (IAU) defined the official 88 constellations. In the original Argo Navis, Puppis represented the stern, Carina the keel, Pyxis the compass, and Vela the sails."
-        },
-
-        {
-            "id": 78,
-            "name": "Pyxis",
-            "phrase": "The Compass",
-            "image": "http://www.constellationdirectory.org/images/pyxis.jpg",
-            "family": "Heavenly Waters",
-            "about": "Pyxis is a small constellation in the Southern Hemisphere. It is best seen during March. Pyxis used to be long to a significantly larger constellation called Argo Navis. In Greek mythology, Argo Navis represented the ship Jason and the Argonauts used when on their mission to retrieve the Golden Fleece, which is often associated with the constellation Aries. Argo Navis was split into four constellations (Pyxis, Carina, Puppis, and Vela) by the International Astronomical Union (IAU) when the organization defined the official 88 constellations. Each of the four is named after a different section of the ship. "
-        },
-
-        {
-            "id": 79,
-            "name": "Reticulum",
-            "phrase": "The Reticle",
-            "image": "http://www.constellationdirectory.org/images/reticulum.jpg",
-            "family": "Lacaille",
-            "about": "Reticulum is a small, dim constellation in the Southern Hemisphere. It is best viewed in January. It was created by Nicolas Louis de Lacaille in the mid-1700s and is one of 15 constellations he developed to fill the southern night sky. He named it after the reticle; a reticle is a set of lines in the eyepiece of a device (such as a microscope or a gun sight) that is used for measuring and locating objects. They are sometimes used in telescopes to locate stars and other astronomical entities.Reticulum is sometimes called 'the Net' instead of 'the Reticle.'"
-        },
-
-        {
-            "id": 80,
-            "name": "Sagitta",
-            "phrase": "The Arrow",
-            "image": "http://www.constellationdirectory.org/images/sagitta.jpg",
-            "family": "Hercules",
-            "about": "Sagitta is located in the Northern Hemisphere and is visible in September. Sagitta is the third-smallest constellation in the sky. The only constellations that are smaller than Sagitta are Crux and Equuleus. Sources describe Sagitta as being an arrow shot by Sagittarius, while there are further references citing Cupid's arrow as a source of the mythology behind the constellation."
-        },
-
-        {
-            "id": 81,
-            "name": "Sagittarius",
-            "phrase": "The Archer",
-            "image": "http://www.constellationdirectory.org/images/sagittarius.jpg",
-            "family": "Zodiac",
-            "about": "Sagittarius is a large constellation in the Southern Hemisphere. It is best seen in August, which means it is visible during the summer at northern latitudes and during the winter at southern latitudes. Eight of the brightest stars in Sagittarius form a distinctive teapot shape, which is often used to identify the constellation. The center of the Milky Way galaxy lies close to Sagittarius. Sagittarius is one of the twelve constellations of the zodiac."
-        },
-
-        {
-            "id": 82,
-            "name": "Scorpius",
-            "phrase": "The Scorpion",
-            "image": "http://www.constellationdirectory.org/images/scorpius.jpg",
-            "family": "Zodiac",
-            "about": "Scorpius is a distinctive constellation in the Southern Hemisphere, easily distinguishable by its curved 'fish hook' shape. The constellation is best seen in July. Scorpius contains two very bright stars: Antares (Alpha Scorpii) is the sixteenth-brightest star in the night sky, and Shaula (Lambda Scorpii) is the twenty fifth-brightest. Scorpius is one of the 12 constellations of the zodiac."
-        },
-
-        {
-            "id": 83,
-            "name": "Sculptor",
-            "phrase": "The Sculptor",
-            "image": "http://www.constellationdirectory.org/images/sculptor.jpg",
-            "family": "Lacaille",
-            "about": "Sculptor is a constellation in the Southern Hemisphere that is best seen in November. Sculptor was first introduced by Nicolas Louis de Lacaille in the 1750s. It is one of 15 constellations Lacaille invented while staying in the Cape of Good Hope. Sculptor was originally named 'L'Atelier du Sculpteur', or 'The Sculptor's Studio.'"
-        },
-
-        {
-            "id": 84,
-            "name": "Scutum",
-            "phrase": "The Shield",
-            "image": "http://www.constellationdirectory.org/images/scutum.jpg",
-            "family": "Hercules",
-            "about": "Scutum is the fifth-smallest constellation in the sky. It is best seen in August. Scutum was created by Johannes Hevelius in 1690 and originally named 'Scutum Sobiescianum' (or the 'shield of Sobieski') to commemorate John III Sobieski, a Polish king who stopped the Turkish army from invading Vienna in 1683."
-        },
-
-        {
-            "id": 85,
-            "name": "Serpens",
-            "phrase": "The Serpent",
-            "image": "http://www.constellationdirectory.org/images/serpens_caput.jpg",
-            "family": "Hercules",
-            "about": "Serpens is located along the equator and is best viewed in July.While Serpens is classified as a single constellation, it is actually split into two individual sections that do not share borders. Serpens is divided by Ophiuchus and the two sections are called Serpens Caput and Serpens Cauda."
-        },
-
-        {
-            "id": 86, 
-            "name": "Sextans",
-            "phrase": "The Sextant",
-            "image": "http://www.constellationdirectory.org/images/sextans.jpg",
-            "family": "Hercules",
-            "about": "Sextans is a small constellation in the small constellation. It is visible during the month of April.Sextans was first introduced by Johannes Hevelius in the late 1600s. He named it after the sextant, which was an instrument he used to make astronomical observations."
-        },
-
-        {
-            "id": 87,
-            "name": "Taurus",
-            "phrase": "The Bull",
-            "image": "http://www.constellationdirectory.org/images/taurus.jpg",
-            "family": "Zodiac",
-            "about": "Taurus is a large constellation in the Northern Hemisphere that is visible in January. Alpha Tauri, traditionally called Aldebaran, is the fourteenth-brightest star in the night sky and represents the eye of the bull. It is also part of the Winter Hexagon (also known as the Winter Circle), which is an asterism visible in the winter in the Northern Hemisphere that consists of Aldebaran and five other stars from nearby constellations: Capella (from Auriga), Sirius (from Canis Major), Procyon (from Canis Minor), Pollux (from Gemini), and Rigel (from Orion). Taurus is one of the twelve constellations of the zodiac."
-        },
-
-        {
-            "id": 88,
-            "name": "Telescopium",
-            "phrase": "The Telescope",
-            "image": "http://www.constellationdirectory.org/images/telescopium.jpg",
-            "family": "Lacaille",
-            "about": "Telescopium is a small constellation in the Southern Hemisphere that is best seen in August.Telescopium was created by Nicolas Louis de Lacaille around 1750 and is one of 15 constellations he developed while at the Cape of Good Hope in Africa."
-        },
-
-
-        {
-            "id": 89,
-            "name": "Triangulum",
-            "phrase": "The Triangle",
-            "image": "http://www.constellationdirectory.org/images/triangulum.jpg",
-            "family": "Perseus",
-            "about": "Triangulum is a small constellation in the Northern Hemisphere. It is best seen in December."
-        },
-
-        {
-            "id": 90,
-            "name": "Triangulum Australe",
-            "phrase": "The Southern Triangle",
-            "image": "http://www.constellationdirectory.org/images/triangulum_australe.jpg",
-            "family": "Hercules",
-            "about": "Triangulum Australe is a small constellation in the Southern Hemisphere that is best seen in July. It was first introduced in 1603 when Johann Bayer's star atlas Uranometria was first published."
-        },
-
-        {
-            "id": 91,
-            "name": "Tucana",
-            "phrase": "The Toucan",
-            "image": "http://www.constellationdirectory.org/images/tucana.jpg",
-            "family": "Bayer Group",
-            "about": "Tucana is a small constellation in the Southern Hemisphere that is best viewed in November. It was first introduced in 1603 when Johann Bayer published his star atlas Uranometria."
-        },
-
-        {
-            "id": 92,
-            "name": "Ursa Major",
-            "phrase": "The Great Bear",
-            "image": "http://www.constellationdirectory.org/images/ursa_major.jpg",
-            "family": "Ursa Major",
-            "about": "Ursa Major is the third-largest constellation in the sky and one of the most recognizable. It is visible throughout the year in the Northern Hemisphere. The tail and body of Ursa Major form the well-known asterism called the Big Dipper or the Plough. The Big Dipper is perhaps most notable for its use during the American Civil War: slaves escaping to the northern USA and Canada would use the Big Dipper (or the 'drinking gourd') as a means of navigation at night, since Ursa Major is circumpolar and never completely sets below the horizon. It could therefore be used as a guide from sundown to sunrise."
-        },
-
-        {
-            "id": 93,
-            "name": "Ursa Minor",
-            "phrase": "The Little Bear",
-            "image": "http://www.constellationdirectory.org/images/ursa_minor.jpg",
-            "family": "Ursa Major",
-            "about": "Ursa Minor is a small constellation in the Northern Hemisphere and is visible year round. It contains Polaris, also known as the North or Pole Star, which is the closest star to the northern celestial pole. Due to its location, Polaris appears to remain stationary in the sky while all the other stars rotate around it. Ursa Minor is the source of the Ursid meteor shower. The Ursids occur every year from December 17-23 and typically peak around December 21. At the shower's peak there can be up to 20 meteors per hour." 
-        },
-
-        {
-            "id": 94,
-            "name": "Vela",
-            "phrase": "The Sails",
-            "image": "http://www.constellationdirectory.org/images/vela.jpg",
-            "family": "Heavenly Waters",
-            "about": "Vela is a large constellation in the Southern Hemisphere. It is best seen in March. Once part of a significantly bigger constellation known as Argo Navis. In Greek mythology, Argo Navis represented the ship that Jason and the Argonauts used when searching for the Golden Fleece (represented by Aries)."
-        },
-
-        {
-            "id": 95, 
-            "name": "Virgo",
-            "phrase": "The Maiden",
-            "image": "http://www.constellationdirectory.org/images/virgo.jpg",
-            "family": "Zodiac",
-            "about": "Virgo is the second-largest constellation, barely surpassed by the even-larger Hydra. Virgo is one of the twelve constellations of the zodiac and is visible throughout both hemispheres during May. Spica—or Alpha Virginis—is the constellation's luminary and the fifteenth-brightest star in the night sky. Virgo contains the Virgo Cluster, which is a cluster of over 2000 galaxies"
-        },
-
-        {
-            "id": 96,
-            "name": "Volans",
-            "phrase": "The Flying Fish",
-            "image": "http://www.constellationdirectory.org/images/volans.jpg",
-            "family": "Bayer Group",
-            "about": "Volans is a small constellation in the Southern Hemisphere that is best seen in March. Volans was first introduced in 1603 in Johann Bayer's Uranometria and was originally named Piscis Volans."
-        },
-
-        {
-            "id": 97,
-            "name": "Vulpecula",
-            "phrase": "The Fox",
-            "image": "http://www.constellationdirectory.org/images/vulpecula.jpg",
-            "family": "Herclues",
-            "about": "Vulpecula is a small constellation in the Northern Hemisphere. It is best viewed in September. Vulpecula was introduced by Johannes Hevelius in 1690. It was originally named Vulpecula cum Anser, or 'The Fox and the Goose.'" 
-        }
-    ]
+  "constellations": [
+    {
+      "id": 1,
+      "name": "Andromeda",
+      "phrase": "The Chained Maiden",
+      "image": "http://www.constellationdirectory.org/images/andromeda.jpg",
+      "family": "Perseus",
+      "about": "Andromeda is a large constellation in the Northern Hemisphere that is best seen in November. In addition to 'The Chained Maiden', Andromeda is also known as 'The Princess' and 'The Chained Lady.' Andromeda contains the Andromeda Galaxy, which is the closest galaxy to the Milky Way."
+    },
+    {
+      "id": 2,
+      "name": "Antlia",
+      "phrase": "The Air Pump",
+      "image": "http://www.constellationdirectory.org/images/antlia.jpg",
+      "family": "Lacaille",
+      "about": "Antlia is a small constellation in the Southern Hemisphere that is best seen in April. Antlia was originally named 'Antlia Pneumatica and Machine Pneumatique' by Nicolas Louis de Lacaille in 1756 to commemorate the air pump, which had recently been invented."
+    },
+    {
+      "id": 3,
+      "name": "Apus",
+      "phrase": "The Bird of Paradise",
+      "image": "http://www.constellationdirectory.org/images/apus.jpg",
+      "family": "Bayer Group",
+      "about": "Apus is a small and relatively dim constellation that is best seen in July in the Southern Hemisphere. It was named by Johann Bayer in the early 1600s and is one of 12 constellations that he designed to fill in the sky of the Southern Hemisphere, which previously had no official constellations."
+    },
+    {
+      "id": 4,
+      "name": "Aquarius",
+      "phrase": "The Water Bearer",
+      "image": "http://www.constellationdirectory.org/images/aquarius.jpg",
+      "family": "Zodiac",
+      "about": "Aquarius is a large constellation in the Southern Hemisphere that can be seen during October. Aquarius is located in a section of the sky that is occasionally referred to as the 'water' section, due to the other water-related constellations in the area: Cetus, Delphinus, Eridanus, Pisces, and Piscis Austrinus. Aquarius is the radiant point of the Eta Aquarids meteor shower. It typically begins around April 16 and ends around May 28, peaking from May 6-7. The Eta Aquarids are named after the star Eta Aquarii and are created by the passage of Halley's Comet. In astrology, Aquarius is the eleventh sign of the Zodiac."
+    },
+    {
+      "id": 5,
+      "name": "Aquila",
+      "phrase": "The Eagle",
+      "image": "http://www.constellationdirectory.org/images/aquila.jpg",
+      "family": "Hercules",
+      "about": "Aquila is an equatorial constellation visible during September. Aquila's brightest star, Altair, forms part an asterism called the Summer Triangle with Deneb (from Cygnus) and Vega (from Lyra). In 1999, Aquila was the source of a nova that could be seen with the naked eye. It was caused by the explosion of a white dwarf star located 13,000 light years away."
+    },
+    {
+      "id": 6,
+      "name": "Ara",
+      "phrase": "The Altar",
+      "image": "http://www.constellationdirectory.org/images/ara.jpg",
+      "family": "Hercules",
+      "about": "Ara is a small constellation in the southern hemisphere that is best seen in the month July. It contains the Stingray Nebula (Hen-1357), which is the youngest known planetary nebula."
+    },
+    {
+      "id": 7,
+      "name": "Aries",
+      "phrase": "The Ram",
+      "image": "http://www.constellationdirectory.org/images/aries.jpg",
+      "family": "Zodiac",
+      "about": "Aries is one of the twelve constellations of the Zodiac. It is located in the Northern Hemisphere and is best viewed in December. Aries used to contain the vernal equinox (meaning the sun would pass through Aries on the equinox), but due to Earth's precession the equinox has moved into Pisces."
+    },
+    {
+      "id": 8,
+      "name": "Auriga",
+      "phrase": "The Charioteer",
+      "image": "http://www.constellationdirectory.org/images/auriga.jpg",
+      "family": "Perseus",
+      "about": "Auriga is a constellation in the Northern Hemisphere that is visible during the month of February. Auriga contains Capella, which is the third-brightest star in the Northern Hemisphere (after Arcturus from Boötes and Vega from Lyra) and the sixth-brightest star in the entire night sky. Mythology related to Auriga varies considerably. Sometimes Auriga is considered as a symbol of a mythical figure of the same name; sometimes Auriga is described as representing Erichthonius, King of Athens, said to have developed the chariot."
+    },
+    {
+      "id": 9,
+      "name": "Boötes",
+      "phrase": "The Herdsman",
+      "image": "http://www.constellationdirectory.org/images/bootes.jpg",
+      "family": "Ursa Major",
+      "about": "Boötes is a large constellation in the Northern Hemisphere. It is best seen during June. Arcturus, the brightest star in Boötes, is also the brightest star in the Northern Hemisphere and the fourth-brightest in the entire night sky."
+    },
+    {
+      "id": 10,
+      "name": "Caelum",
+      "phrase": "The Engraving Tool",
+      "image": "http://www.constellationdirectory.org/images/caelum.jpg",
+      "family": "Lacaille",
+      "about": "This small constellation in the Southern Hemisphere was named by Nicolas Louis de Lacaille in the 1800s. It is best seen in January."
+    },
+    {
+      "id": 11,
+      "name": "Camelopardalis",
+      "phrase": "The Giraffe",
+      "image": "http://www.constellationdirectory.org/images/camelopardalis.jpg",
+      "family": "Ursa Major",
+      "about": "Camelopardalis is the 18th-largest constellation in the sky. It is visible in the Northern Hemisphere during February. Camelopardalis is a relatively dim constellation since it has no stars that are brighter than fourth magnitude. Camelopardalis is occasionally referred to as Camelopardalus and Camelopardus."
+    },
+    {
+      "id": 12,
+      "name": "Cancer",
+      "phrase": "The Crab",
+      "image": "http://www.constellationdirectory.org/images/cancer.jpg",
+      "family": "Zodiac",
+      "about": "Cancer is located in the Northern Hemisphere and is visible in March. It is a relatively dim constellation since its brightest star is only fourth magnitude. In astrology, Cancer is the fourth sign of the zodiac."
+    },
+    {
+      "id": 13,
+      "name": "Canes Venatici",
+      "phrase": "The Hunting Dogs",
+      "image": "http://www.constellationdirectory.org/images/canes_venatici.jpg",
+      "family": "Ursa Major",
+      "about": "Canes Venatici is a constellation in the Northern Hemisphere. It is visible in May. A star in Canes Venatici, Y Canum Venaticorum, is one of the brightest and reddest carbon stars in the sky in addition to being one of the coldest visible stars. It was named 'La Superba' by Angelo Secchi in the 1800s for its color."
+    },
+    {
+      "id": 14,
+      "name": "Canis Major",
+      "phrase": "The Great Dog",
+      "image": "http://www.constellationdirectory.org/images/canis_major.jpg",
+      "family": "Orion",
+      "about": "Canis Major is a constellation in the Southern Hemisphere that is best viewed in February. Canis Major's luminary, Sirius, is the brightest star in the entire night sky and also one of the brightest objects, as only the Moon, Mars, Venus, and Jupiter shine brighter. Sometimes referred to as the Dog Star, Sirius marks a corner of the Winter Triangle, which is a near-equilateral triangle formed by Sirius, Betelgeuse from Orion, and Procyon from Canis Minor."
+    },
+    {
+      "id": 15,
+      "name": "Canis Minor",
+      "phrase": "The Lesser Dog",
+      "image": "http://www.constellationdirectory.org/images/canis_minor.jpg",
+      "family": "Orion",
+      "about": "Canis Minor is a small constellation in the Northern Hemisphere. It is best seen in March. Procyon, a binary star system and Canis Minor's luminary, is the eighth-brightest star in the night sky. Procyon, Sirius (from Canis Major), and Betelgeuse (from Orion) form a triangular asterism called the Winter Triangle, which is an almost perfect equilateral triangle. In addition, Procyon, Sirius, Aldebaran (from Taurus), Capella (from Auriga), Pollux (from Gemini), and Rigel (from Orion) form a collection of stars called the Winter Hexagon or Winter Circle."
+    },
+    {
+      "id": 16,
+      "name": "Capricornus",
+      "phrase": "The Sea Goat",
+      "image": "http://www.constellationdirectory.org/images/capricornus.jpg",
+      "family": "Zodiac",
+      "about": "Capricornus, also known as Capricorn, is one of the 12 constellations of the zodiac and lies in the Southern Hemisphere. With no stars above third magnitude, it is one of the dimmest constellations in the night sky. It is best seen in September."
+    },
+    {
+      "id": 17,
+      "name": "Carina",
+      "phrase": "The Keel",
+      "image": "http://www.constellationdirectory.org/images/carina.jpg",
+      "family": "Heavenly Waters",
+      "about": "Carina is a constellation in the Southern Hemisphere that is best viewed in March. Canopus, Carina's luminary, is the second-brightest star in the entire night sky, surpassed only by Sirius from Canis Major."
+    },
+    {
+      "id": 18,
+      "name": "Cassiopeia",
+      "phrase": "The Seated Queen",
+      "image": "http://www.constellationdirectory.org/images/cassiopeia.jpg",
+      "family": "Perseus",
+      "about": "Cassiopeia is a constellation in the Northern Hemisphere that is best seen in November. Cassiopeia was the location of two notable supernovae. The earliest supernova was recorded by observers as first appearing in November of 1572; among the stargazers who spotted the exploding star was Danish astronomer Tycho Brahe, after whom the supernova is named. Brahe called the star Stella Nova, or 'new star', since the star had not been visible before the supernova occurred. It shone during the day for two weeks after the initial explosion and could be seen with the naked eye for 16 months. It is possible that the supernova inspired part of the dialogue of the first scene in Hamlet by Shakespeare, as there is evidence that the playwright knew of Brahe's work. The second supernova probably occurred around 1680, and the star that exploded is called Cassiopeia A. It is the strongest source of radio signals other than the Solar System and was first detected by radio astronomers in 1947."
+    },
+    {
+      "id": 19,
+      "name": "Centaurus",
+      "phrase": "The Centaur",
+      "image": "http://www.constellationdirectory.org/images/centaurus.jpg",
+      "family": "Hercules",
+      "about": "Centaurus is one of the largest constellations in the sky and contains the highest number of stars visible with the naked eye. It is located in the Southern Hemisphere and can best be seen in May. Rigil Kentaurus, also called by its Bayer designation of Alpha Centauri, is Centaurus' most luminous star and is the third-brightest star in the night sky. Near Rigil Kentaurus is Proxima Centauri, which is the closest known star to Sun at 4.24 light years away although it is not visible to the naked eye."
+    },
+    {
+      "id": 20,
+      "name": "Cepheus",
+      "phrase": "The King",
+      "image": "http://www.constellationdirectory.org/images/cepheus.jpg",
+      "family": "Perseus",
+      "about": "Cepheus is not a bright constellation, but it is visible throughout the Northern Hemisphere. It is best seen in October. In Greek mythology, Cepheus was the King of Ethiopia, husband of Cassiopeia and father of Andromeda."
+    },
+    {
+      "id": 21,
+      "name": "Cetus",
+      "phrase": "The Sea Monster",
+      "image": "http://www.constellationdirectory.org/images/cetus.jpg",
+      "family": "Perseus",
+      "about": "Cetus is a large constellation located near the equator. It is best seen in December. The English name for Cetus varies, as it is sometimes written as 'The Sea Monster' and other times referred to as 'The Whale.' Either way, Cetus is associated with the so-called 'water' section of the sky, since there are a number of constellations in the area that are connected to water: Aquarius, Delphinus, Eridanus, Pisces, and Piscis Austrinus. Cetus is the location of the first variable star to be discovered. Omicron Ceti, or Mira, was originally observed by David Fabricius in 1596."
+    },
+    {
+      "id": 22,
+      "name": "Chamaeleon",
+      "phrase": "The Chamaeleon",
+      "image": "http://www.constellationdirectory.org/images/chamaeleon.jpg",
+      "family": "Bayer Group",
+      "about": "Chamaeleon is a small constellation in the Southern Hemisphere that is best seen in April. It is a circumpolar constellation, meaning it appears to rotate around the Earth's pole in the sky and never sets; Chamaeleon is visible all night long at southern latitudes. The constellation was originally introduced by Johann Bayer in 1603 when he developed his star atlas Uranometria."
+    },
+    {
+      "id": 23,
+      "name": "Circinus",
+      "phrase": "The Compass",
+      "image": "http://www.constellationdirectory.org/images/circinus.jpg",
+      "family": "Lacaille",
+      "about": "Circinus is a very small constellation in the Southern Hemisphere. It is best seen in June. Circinus represents the type of compass used by navigators to measure distances. It was named by Nicolas Louis de Lacaille in the 1700s."
+    },
+    {
+      "id": 24,
+      "name": "Columba",
+      "phrase": "The Dove",
+      "image": "http://www.constellationdirectory.org/images/columba.jpg",
+      "family": "Heavenly Waters",
+      "about": "Columba is a dim constellation in the Southern Hemisphere that is best seen in February. There are two myths relating to Columba. In one story from Greek mythology, Columba represents the bird Jason and the Argonauts released ahead of them to help them navigate through the Black Sea. In another story, the constellation is a biblical symbol of the dove that Noah—of Noah's Ark—sent out and which returned with an olive branch after it found dry land."
+    },
+    {
+      "id": 25,
+      "name": "Coma Berenices",
+      "phrase": "Berenice's Hair",
+      "image": "http://www.constellationdirectory.org/images/coma_berenices.jpg",
+      "family": "Ursa Major",
+      "about": "Coma Berenices is a faint constellation in the Northern Hemisphere that is best viewed in May. While there are no stars above fourth magnitude present, Coma Berenices does include a large number of interesting deep sky objects. The name Coma Berenices refers to the hair of Queen Berenice II, who was the wife of Ptolemy III of Egypt. She sacrificed her hair to the goddess Aphrodite after her husband safely returned from a mission overseas; Aphrodite was pleased with the offering and placed the hair in the sky."
+    },
+    {
+      "id": 26,
+      "name": "Corona Borealis",
+      "phrase": "The Northern Crown",
+      "image": "http://www.constellationdirectory.org/images/corona_borealis.jpg",
+      "family": "Coronae Borealis",
+      "about": "Corona Borealis is a small constellation located in the Northern Hemisphere that is best seen in July. In Greek mythology, Corona Borealis represents a crown forged by Hephaestus and given to Ariadne, daughter of King Minos of Crete. "
+    },
+    {
+      "id": 27,
+      "name": "Corvus",
+      "phrase": "The Crow",
+      "image": "http://www.constellationdirectory.org/images/corvus.jpg",
+      "family": "Hercules",
+      "about": "Corvus is a small constellation in the Southern Hemisphere that is best seen in May. n Greek mythology, Corvus represents a crow or raven sent by Apollo to fetch water and bring it back to him. However, the crow wasted time eating figs instead of returning to the god immediately, and Apollo punished it with eternal thirst. The Greeks thought that this thirst was the reason why crows produce loud, rough caws instead of the sweeter songs of other birds."
+    },
+    {
+      "id": 28,
+      "name": "Crater",
+      "phrase": "The Cup",
+      "image": "http://www.constellationdirectory.org/images/crater.jpg",
+      "family": "Hercules",
+      "about": "Crater is a small constellation in the Southern Hemisphere composed of relatively dim stars. It can be seen during April. Crater is the site of the Eta Craterids meteor shower which occurs every year from January 11-22. In Greek mythology, Crater represents the cup of the god Apollo."
+    },
+    {
+      "id": 29,
+      "name": "Crux",
+      "phrase": "The Southern Cross",
+      "image": "http://www.constellationdirectory.org/images/crux.jpg",
+      "family": "Hercules",
+      "about": "Crux is located in the Southern Hemisphere and is best seen in May. Crux is the smallest official constellation; however, it is also one of the most distinctive constellations in the Southern Hemisphere. It contains Acrux, the thirteenth-brightest star in the night sky, and historically Crux was frequently used by sailors to determine the position of the south pole. Crux is represented in the national flags of Australia, Brazil, New Zealand, Papua New Guinea, and Samoa."
+    },
+    {
+      "id": 30,
+      "name": "Cygnus",
+      "phrase": "The Swan",
+      "image": "http://www.constellationdirectory.org/images/cygnus.jpg",
+      "family": "Hercules",
+      "about": "Cygnus is a distinctive constellation in the Northern Hemisphere that is best seen in September. Due to its shape, it is occasionally referred to as the Northern Cross. The brightest star in Cygnus, Deneb, is one of three stars that form an asterism called the Summer Triangle which is visible at northern latitudes during the summer. The other two stars in the Summer Triangle are Altair from Aquila and Vega from Lyra."
+    },
+    {
+      "id": 31,
+      "name": "Delphinus",
+      "phrase": "The Dolphin",
+      "image": "http://www.constellationdirectory.org/images/delphinus.jpg",
+      "family": "Heavenly Waters",
+      "about": "Delphinus is a small constellation in the Northern Hemisphere that can be seen in September. Two of the stars in Delphinus, Rotanev and Sualocin, honor Niccolo Cacciatore, who was an assistant to an Italian astronomer named Giuseppe Piazzi who lived from 1746-1826. The Latinized version of Cacciatore's name is Nicolaus Venator, which is Sualocin Rotanev when spelled in reverse. His name was split and assigned to stars Alpha and Beta Delphini."
+    },
+    {
+      "id": 32,
+      "name": "Dorado",
+      "phrase": "The Swordfish",
+      "image": "http://www.constellationdirectory.org/images/dorado.jpg",
+      "family": "Bayer Group",
+      "about": "Dorado is a small constellation in the Southern Hemisphere that is best seen in January. Dorado contains the south ecliptic pole. The two ecliptic poles, one south and one north, are the points where a line perpendicular to the ecliptic (the apparent path of the Sun through the sky) meets the celestial sphere, the imaginary sphere surrounding Earth onto which are mapped all the objects observed in the sky."
+    },
+    {
+      "id": 33,
+      "name": "Draco",
+      "phrase": "The Dragon",
+      "image": "http://www.constellationdirectory.org/images/draco.jpg",
+      "family": "Ursa Major",
+      "about": "Draco is a large constellation in the Northern Hemisphere that is best seen in July. Draco used to include the pole star—the star closest to the North Pole—but due to Earth's precession, or Earth's 'wobble' along its axis of rotation, the pole star is now Polaris, which is located in Ursa Major. Draco will be home to the pole star again in the year 20346, since precession is a cyclical process that occurs over thousands of years."
+    },
+    {
+      "id": 34,
+      "name": "Equuleus",
+      "phrase": "The Little Horse",
+      "image": "http://www.constellationdirectory.org/images/equuleus.jpg",
+      "family": "Heavenly Waters",
+      "about": "Equuleus is located in the Northern Hemisphere and is best viewed in September. Occasionally referred to as 'The Foal' instead of 'The Little Horse', Equuleus is the second-smallest constellation in the night sky; the only constellation smaller than Equuleus is Crux. Kitalpha, Alpha Equulei, is a binary star system consisting of a G-class giant star and a white dwarf star that orbit each other every 99 days at a distance of 99 million kilometers."
+    },
+    {
+      "id": 35,
+      "name": "Eridanus",
+      "phrase": "The River",
+      "image": "http://www.constellationdirectory.org/images/eridanus.jpg",
+      "family": "Heavenly Waters",
+      "about": "Eridanus is the sixth-largest and the second-longest constellation (after Hydra), and its luminary is the ninth-brightest star in the night sky. It is visible in the Southern Hemisphere and best seen in December. Eridanus is located in a section of the sky called the water section due to the number of water-related constellations in the surrounding sky: Aquarius, Cetus, Delphinus, Pisces, and Piscis Austrinus. Some scientists propose the existence of a so-called 'Great Void' in Eridanus to explain a cold spot in the cosmic microwave background radiation. Voids in the universe are areas of space where there is no matter present, both normal matter and dark matter. If the void was proved to exist, the Eridanus void could be as large as 1 billion light years across."
+    },
+    {
+      "id": 36,
+      "name": "Fornax",
+      "phrase": "The Furnance",
+      "image": "http://www.constellationdirectory.org/images/fornax.jpg",
+      "family": "Lacaille",
+      "about": "Fornax is located in the Southern Hemisphere and is best seen in December. The Fornax Cluster, a cluster of galaxies in this constellation, is the second-closest galaxy cluster to Earth and is one of the largest radio sources in the sky. The cause of the radio signals is a supermassive black hole at the center of galaxy NGC 1316. Fornax is also the location of the Hubble Ultra Deep Field. The HUDF is a small region of space that the Hubble Telescope focused on for an extended period of time due to the lack of galaxies in the near field in that part of the sky. A combination of data from 2003 to 2014 (a total of 814 orbits of viewing time by the telescope) resulted in an image containing around 10,000 galaxies.Fornax was originally named and created by Nicolas Louis de Lacaille in the mid-1700s."
+    },
+    {
+      "id": 37,
+      "name": "Gemini",
+      "phrase": "The Twins",
+      "image": "http://www.constellationdirectory.org/images/gemini.jpg",
+      "family": "Zodiac",
+      "about": "Gemini is a constellation in the Northern Hemisphere that is visible during February. It is one of the twelve constellations of the Zodiac. Castor and Pollux, Alpha and Beta Geminorum, are two of the brightest stars in the night sky. Pollux, Capella (from Auriga), Sirius (from Canis Major), Procyon (from Canis Minor), Rigel (from Orion), and Aldebaran (from Taurus) form an asterism called the Winter Circle or Winter Hexagon. Gemini is the radiant point of the Geminid meteor shower. It occurs annually from December 4-17 and peaks around December 14. Up to 120 meteors per hour can be seen at the shower's peak. Unlike many other meteor showers, the Geminids are not created by a comet—they are actually created by an asteroid called 3200 Phaethon that orbits the Sun every 1.4 years."
+    },
+    {
+      "id": 38,
+      "name": "Grus",
+      "phrase": "The Crane",
+      "image": "http://www.constellationdirectory.org/images/grus.jpg",
+      "family": "Bayer Group",
+      "about": "Grus is a constellation in the Southern Hemisphere. It is best seen in October. Grus was named by Johann Bayer in 1603 when he published his star atlas Uranometria. Grus used to be part of Piscis Austrinus, but the stars of Grus were separated out and turned into a new constellation. Although officially designated as 'The Crane' by the International Astronomical Union (IAU), Grus used to be called Phoenicopterus, or 'The Flamingo.'"
+    },
+    {
+      "id": 39,
+      "name": "Hercules",
+      "phrase": "The Hero",
+      "image": "http://www.constellationdirectory.org/images/hercules.jpg",
+      "family": "Hercules",
+      "about": "Hercules is the fifth-largest constellation in the sky, although it is composed of relatively dim stars. It is best seen in July in the Northern Hemisphere. Hercules contains M13, a globular cluster of approximately 300,000 stars that appears as a faint spot of light to the naked eye. It is considered to be one of the finest clusters in the northern hemisphere. Four stars in Hercules (Eta, Pi, Epsilon, and Zeta Herculis) form an asterism called the Keystone. It is a roughly square arrangement of stars that denotes Hercules' pelvis and torso."
+    },
+    {
+      "id": 40,
+      "name": "Horologium",
+      "phrase": "The Clock",
+      "image": "http://www.constellationdirectory.org/images/horologium.jpg",
+      "family": "Lacaille",
+      "about": "Horologium is a constellation in the Southern Hemisphere. It is best seen in December. Horologium was created in the mid-1700s by Nicolas Louis de Lacaille. He originally named it Horologium Oscillitorium in honor of the pendulum clock which was invented by Christiaan Huygens in the previous century. This constellation contains the Horologium Supercluster (also called the Horologium-Reticulum Supercluster) which is a massive cluster of galaxies 550 million light years in length. It is the largest supercluster within 1 billion light years."
+    },
+    {
+      "id": 41,
+      "name": "Hydra",
+      "phrase": "The Female Water Snake",
+      "image": "http://www.constellationdirectory.org/images/hydra.jpg",
+      "family": "Hercules",
+      "about": "Hydra is the largest (and the longest) constellation, covering over 3% of the night sky. It is visible throughout much of both hemispheres and is best seen in April. The northernmost star in Hydra is Epsilon Hydrae, which is a quintuple star system where five individual stars orbit each other."
+    },
+    {
+      "id": 42,
+      "name": "Hydrus",
+      "phrase": "The Male Water Snake",
+      "image": "http://www.constellationdirectory.org/images/hydrus.jpg",
+      "family": "Bayer Group",
+      "about": "Hydrus is a small constellation in the southern hemisphere that is best seen in December. It is one of twelve constellations named by Johann Bayer in his star atlas Uranometria, which was published in 1603. While they share similar names, Hydrus should not be confused with Hydra, a significantly larger and separate constellation."
+    },
+    {
+      "id": 43,
+      "name": "Indus",
+      "phrase": "The Indian",
+      "image": "http://www.constellationdirectory.org/images/indus.jpg",
+      "family": "Bayer Group",
+      "about": "Indus is a constellation in the Southern Hemisphere that consists of relatively faint stars. It is best seen during September. Indus was first introduced in 1603 when Johann Bayer published his star atlas Uranometria."
+    },
+    {
+      "id": 44,
+      "name": "Lacerta",
+      "phrase": "The Lizard",
+      "image": "http://www.constellationdirectory.org/images/lacerta.jpg",
+      "family": "Perseus",
+      "about": "Lacerta is a small constellation in the Northern Hemisphere. It is best seen in October. Lacerta was originally introduced by Johannes Hevelius in 1690. This constellation contains the object BL Lacertae. BL Lacertae is a blazar, which is a quasar with one of its jets oriented so that it points directly toward Earth. A quasar is a unique type of galaxy that has a supermassive black hole spinning at its center. As matter falls in toward the black hole due to gravitational attraction, it is then propelled outward in jets that are caused by a magnetic field generated by the black hole's spin. "
+    },
+    {
+      "id": 45,
+      "name": "Leo",
+      "phrase": "The Lion",
+      "image": "http://www.constellationdirectory.org/images/leo.jpg",
+      "family": "Zodiac",
+      "about": "Leo is a large constellation in the Northern Hemisphere that is best seen in April. Leo is home to the Leonid meteor shower, an annual meteor shower that typically begins on November 13 and ends on November 21, peaking around November 17-18. Up to 20 meteors per hour can be seen at the shower's peak. This constellation contains the star Wolf 359, which is a red dwarf star and the fifth-closest star to Earth, not including the Sun and after the stars in the Alpha Centauri system and Barnard's Star in Ophiuchus. Wolf 359 is about 16% of the size of the Sun and is also quite dim, having a luminosity equivalent to about 10 full moons. In astrology, Leo is the fifth constellation of the zodiac."
+    },
+    {
+      "id": 46,
+      "name": "Leo Minor",
+      "phrase": "The Lesser Lion",
+      "image": "http://www.constellationdirectory.org/images/leo_minor.jpg",
+      "family": "Ursa Major",
+      "about": "Leo Minor is a small constellation in the Northern Hemisphere that is best seen in April. Leo Minor was first introduced as a constellation by Johannes Hevelius in 1690. Leo Minor is relatively dim compared to the other lion constellation in the sky, Leo, and has no alpha star. Instead, 46 Leonis Minoris is Leo Minor's brightest star and it is called Praecipua, which means 'principal star'. Leo Minor is occasionally referred to as 'The Lion Cub' and 'The Smaller Lion' as well as being called 'The Lesser Lion.'"
+    },
+    {
+      "id": 47,
+      "name": "Lepus",
+      "phrase": "The Hare",
+      "image": "http://www.constellationdirectory.org/images/lepus.jpg",
+      "family": "Orion",
+      "about": "Lepus is a small constellation in the Southern Hemisphere located at the feet of Orion. It is best seen in February. In Greek mythology, Lepus is usually considered one of the animals Orion hunts with this dogs Canis Major and Canis Minor."
+    },
+    {
+      "id": 48,
+      "name": "Libra",
+      "phrase": "The Scales",
+      "image": "http://www.constellationdirectory.org/images/libra.jpg",
+      "family": "Zodiac",
+      "about": "Libra is one of the twelve constellations of the zodiac. It is located in the Southern Hemisphere and is best seen during June. Because it used to include the location of the Sun during the autumnal equinox when the length of day and night are exactly equal, Libra is frequently associated with justice and equality. It is the only zodiac symbol that is not a living creature. This constellation contains the location of planetary system Gliese 581, which consists of three known planets (Gliese 581 b, 581 c, and 581 e) orbiting a red dwarf star."
+    },
+    {
+      "id": 49,
+      "name": "Lupus",
+      "phrase": "The Wolf",
+      "image": "http://www.constellationdirectory.org/images/lupus.jpg",
+      "family": "Hercules",
+      "about": "Lupus is a constellation located in the Southern Hemisphere. It is best seen in June. Lupus was the location of supernova SN 1006, the brightest stellar event in recorded history. It occurred from April 30 to May 1 of the year 1006. Visible from Earth, the supernova was three times brighter than Venus and a quarter of the Moon's brightness. Some scientists have proposed that the supernova was caused by the collision of two white dwarf stars. Including SN 1006, there have been only four supernovae of this type observed in the Milky Way."
+    },
+    {
+      "id": 50,
+      "name": "Lynx",
+      "phrase": "The Lynx",
+      "image": "http://www.constellationdirectory.org/images/lynx.jpg",
+      "family": "Ursa Major",
+      "about": "Lynx is a faint constellation in the Northern Hemisphere. It is best viewed in March. Lynx was originally created by Johannes Hevelius in 1690. It appears as a bumpy line in the night sky and does not directly outline the shape of a lynx, which is a wild cat that lives in North America, Europe, and Asia."
+    },
+    {
+      "id": 60,
+      "name": "Lyra",
+      "phrase": "The Lyre",
+      "image": "http://www.constellationdirectory.org/images/lyra.jpg",
+      "family": "Hercules",
+      "about": "Lyra is a small constellation in the Northern Hemisphere that is best seen in August. The constellation's brightest star, Vega, is the fifth-brightest star in the night sky. Vega forms an asterism known as the Summer Triangle with stars Altair from Aquila and Deneb from Cygnus. Lyra contains the location of the 'Double Double' star, a quadruple star system that appears as a single point of light when viewed without a telescope. This part of the sky is also home to the Lyrid meteor shower, which occurs every year from April 16-25."
+    },
+    {
+      "id": 61,
+      "name": "Mensa",
+      "phrase": "The Table Mountain",
+      "image": "http://www.constellationdirectory.org/images/mensa.jpg",
+      "family": "Lacaille",
+      "about": "Mensa is a small constellation in the Southern Hemisphere that is best viewed in January. Mensa was created by Nicolas Louis de Lacaille in the mid-1700s and originally named Mons Mensa, which directly translates to 'the Table Mountain.' The constellation retains the translation of its original name but Mons Mensa was shortened to Mensa."
+    },
+    {
+      "id": 62,
+      "name": "Microscopium",
+      "phrase": "The Microscope",
+      "image": "http://www.constellationdirectory.org/images/microscopium.jpg",
+      "family": "Lacaille",
+      "about": "Microscopium is a small constellation in the Southern Hemisphere that is best viewed in September. It was originally named by Nicolas Louis de Lacaille around 1750 in honor of the invention of the microscope. Gamma Microscopii, the constellation's brightest star, is currently moving away from the Sun at a rate of around 15 kilometers per second. Calculation of its path through space in relation to the Earth leads to the conclusion that Gamma Mic was the brightest star in the night sky about 3.8 million years ago."
+    },
+    {
+      "id": 63,
+      "name": "Monoceros",
+      "phrase": "The Unicorn",
+      "image": "http://www.constellationdirectory.org/images/monoceros.jpg",
+      "family": "Orion",
+      "about": "Monoceros is a faint constellation near the equator. It is best seen in February. The brightest star in the constellation, Beta Monocerotis, is a unique triple star system. The three stars form a distinct triangle when viewed through a telescope. Monoceros includes the location of Plaskett's star, which is one of the most massive binary stars discovered in the universe. The two stars have a combined mass of around 100 times the mass of the Sun and orbit a common center of gravity every 14.4 days."
+    },
+    {
+      "id": 64,
+      "name": "Musca",
+      "phrase": "The Fly",
+      "image": "http://www.constellationdirectory.org/images/musca.jpg",
+      "family": "Bayer Group",
+      "about": "Musca is a small constellation in the Southern Hemisphere. It is best seen in May. Musca was first introduced by Johann Bayer in 1603 when he published his star atlas Uranometria. It was formerly referred to as Musca Australis vel Indica or the 'Southern or Indian Fly' to differentiate it from a now-obsolete constellation called the Northern Fly, or Musca Borealis."
+    },
+    {
+      "id": 65,
+      "name": "Norma",
+      "phrase": "The Carpenter's Square",
+      "image": "http://www.constellationdirectory.org/images/norma.jpg",
+      "family": "Lacaille",
+      "about": "Norma is a small constellation in the Southern Hemisphere that is best seen in July. It was created by Nicolas Louis de Lacaille around 1750 and originally named Norma et Regula or 'The Level and the Square.'"
+    },
+    {
+      "id": 66,
+      "name": "Octans",
+      "phrase": "The Octant",
+      "image": "http://www.constellationdirectory.org/images/octans.jpg",
+      "family": "Lacaille",
+      "about": "Octans is a small constellation in the Southern Hemisphere. It is best viewed in October. Octans is circumpolar, meaning that it never disappears below the horizon in the Southern Hemisphere, and it also contains the south celestial pole, which is the point of intersection between Earth's axis and the celestial sphere. Octans was invented by Nicolas Louis de Lacaille in the mid-1700s. It was named after the octant, a measuring tool used in astronomy and navigation."
+    },
+    {
+      "id": 67,
+      "name": "Ophiuchus",
+      "phrase": "The Serpent Bearer",
+      "image": "http://www.constellationdirectory.org/images/ophiuchus.jpg",
+      "family": "Hercules, Zodiac",
+      "about": "Ophiuchus is a large constellation lying along the celestial equator. It is best seen in July. While most of the stars in Ophiuchus are relatively dim, the constellation can be recognized by its distinctive teapot shape. It contains Barnard's Star, which is a red dwarf star only six light years away, making it the fourth-closest star to the Sun after stars in Centaurus. While it is not officially classified as one of the constellations of the Zodiac, Ophiuchus lies along the ecliptic, or the path that the Sun appears to follow in the sky throughout the year. All of the other constellations located along this path are considered part of the Zodiac."
+    },
+    {
+      "id": 68,
+      "name": "Orion",
+      "phrase": "The Hunter",
+      "image": "http://www.constellationdirectory.org/images/orion.jpg",
+      "family": "Orion",
+      "about": "Orion is one of the most distinctive constellations in the sky. It is located along the equator and is best seen during January. It contains Rigel, or Beta Orionis, the seventh-brightest star in the night sky, as well as Alpha Orionis, or Betelgeuse, which is the tenth-brightest star. Betelgeuse, Sirius (from Canis Major), and Procyon (from Canis Minor) form an asterism called the Winter Triangle. In addition, Rigel, Sirius, Procyon, Aldebaran (from Taurus), Capella (from Auriga), and Pollux (from Gemini) form another asterism called the Winter Hexagon or the Winter Circle. Orion is home to the Orionid meteor shower, an annual meteor shower that occurs from October to November. At its peak, a date that usually falls around October 20, there can be up to around 20 meteors per hour."
+    },
+    {
+      "id": 69,
+      "name": "Pavo",
+      "phrase": "The Peacock",
+      "image": "http://www.constellationdirectory.org/images/pavo.jpg",
+      "family": "Bayer Group",
+      "about": "Pavo is a constellation in the Southern Hemisphere that is best seen in September. Pavo was originally named by Johann Bayer in 1603 when he published his star atlas Uranometria; it is one of twelve southern constellations that he introduced. Some of the stars in Pavo form an asterism called 'the Saucepan', which points toward the southern celestial pole and acts as a navigational tool. The star Delta Pavonis has been the subject of significant scientific interest. Given its similarity and proximity to the Sun, it was classified as a top target for a couple of NASA programs that would have aimed to discover planets in orbit around host stars. In addition, the Search for Extraterrestrial Intelligence (SETI) Institute has described Delta Pavonis as one of its 'best' targets."
+    },
+    {
+      "id": 70,
+      "name": "Pegasus",
+      "phrase": "The Winged Horse",
+      "image": "http://www.constellationdirectory.org/images/pegasus.jpg",
+      "family": "Perseus",
+      "about": "Pegasus is the seventh-largest constellation in the sky. It is located in the Northern Hemisphere and is best viewed in October. Pegasus represents the front half of a winged horse oriented upside down. It is often identified by the square formed by three stars in Pegasus and the star Alpheratz from Andromeda which lies on the border of the two constellations."
+    },
+    {
+      "id": 71,
+      "name": "Perseus",
+      "phrase": "The Hero",
+      "image": "http://www.constellationdirectory.org/images/perseus.jpg",
+      "family": "Perseus",
+      "about": "Perseus is a constellation located in the Northern Hemisphere that is visible during December. It is home to the Perseid meteor shower which peaks around August 9-13 and can produce up to 60-100 meteors per hour. In 2006, Perseus became the location of the largest supernova on record when a star 100-200 times more massive than the Sun exploded. The supernova took place in galaxy NGC 1260, around 240 million light years away."
+    },
+    {
+      "id": 72,
+      "name": "Phoenix",
+      "phrase": "The Phoenix",
+      "image": "http://www.constellationdirectory.org/images/phoenix.jpg",
+      "family": "Bayer Group",
+      "about": "Phoenix is a constellation in the Southern Hemisphere that is best seen in November. Pavo was first introduced in the 1600s by Johann Bayer. Bayer created twelve new constellations in the Southern Hemisphere, including Phoenix, when he published his star atlas Uranometria in 1603."
+    },
+    {
+      "id": 73,
+      "name": "Pictor",
+      "phrase": "The Painter's Easel",
+      "image": "http://www.constellationdirectory.org/images/pictor.jpg",
+      "family": "Lacaille",
+      "about": "Pictor is a small constellation in the Southern Hemisphere. It is best viewed in February. Pictor was first introduced by Nicolas Louis de Lacaille in the mid-1700s after he visited the Cape of Good Hope in Africa. His original name for Pictor was 'Le Chevalet et la Palette' or 'The Painter's Easel and Palette.'"
+    },
+    {
+      "id": 74,
+      "name": "Pisces",
+      "phrase": "The Fishes",
+      "image": "http://www.constellationdirectory.org/images/pisces.jpg",
+      "family": "Zodiac",
+      "about": "Pisces is a large constellation in the Northern Hemisphere that is best seen in November. It is one of the constellations of the zodiac and is the last of the 12 signs, after Aquarius and before Aries. The two fish in Pisces used to be represented as facing (or swimming) in the same direction, but now they are more commonly depicted as pointing in opposite directions. In Greek mythology, Pisces represents Aphrodite and Eros (or Venus and Cupid in Roman mythology) who turned into fish to escape the monster Typhon when he appeared and threatened the gods."
+    },
+    {
+      "id": 75,
+      "name": "Piscis Austrinus",
+      "phrase": "The Southern Fish",
+      "image": "http://www.constellationdirectory.org/images/piscis_austrinus.jpg",
+      "family": "Heavenly Waters",
+      "about": "Piscis Austrinus is a small constellation in the Southern Hemisphere that is visible during October. Its luminary, Fomalhaut, is the eighteenth-brightest star in the night sky. Piscis Austrinus belongs to the 'water' section of the sky, so called because of the number of water-related constellations in the surrounding sky: Aquarius, Cetus, Delphinus, Eridanus, and Pisces. In addition, Piscis Austrinus is a particularly old constellation; it has origins tracing back to Babylonian times."
+    },
+    {
+      "id": 76,
+      "name": "Puppis",
+      "phrase": "The Stern",
+      "image": "http://www.constellationdirectory.org/images/puppis.jpg",
+      "family": "Heavenly Waters",
+      "about": "Puppis is one of the largest constellations in the Southern Hemisphere. It is best seen in March. Puppis used to be part of a much bigger constellation called Argo Navis, which in Greek mythology represented the ship Jason and the Argonauts sailed on during their mission to find the Golden Fleece (often associated with Aries). Argo Navis was split into four separate constellations when the International Astronomical Union (IAU) defined the official 88 constellations. In the original Argo Navis, Puppis represented the stern, Carina the keel, Pyxis the compass, and Vela the sails."
+    },
+    {
+      "id": 78,
+      "name": "Pyxis",
+      "phrase": "The Compass",
+      "image": "http://www.constellationdirectory.org/images/pyxis.jpg",
+      "family": "Heavenly Waters",
+      "about": "Pyxis is a small constellation in the Southern Hemisphere. It is best seen during March. Pyxis used to be long to a significantly larger constellation called Argo Navis. In Greek mythology, Argo Navis represented the ship Jason and the Argonauts used when on their mission to retrieve the Golden Fleece, which is often associated with the constellation Aries. Argo Navis was split into four constellations (Pyxis, Carina, Puppis, and Vela) by the International Astronomical Union (IAU) when the organization defined the official 88 constellations. Each of the four is named after a different section of the ship. "
+    },
+    {
+      "id": 79,
+      "name": "Reticulum",
+      "phrase": "The Reticle",
+      "image": "http://www.constellationdirectory.org/images/reticulum.jpg",
+      "family": "Lacaille",
+      "about": "Reticulum is a small, dim constellation in the Southern Hemisphere. It is best viewed in January. It was created by Nicolas Louis de Lacaille in the mid-1700s and is one of 15 constellations he developed to fill the southern night sky. He named it after the reticle; a reticle is a set of lines in the eyepiece of a device (such as a microscope or a gun sight) that is used for measuring and locating objects. They are sometimes used in telescopes to locate stars and other astronomical entities.Reticulum is sometimes called 'the Net' instead of 'the Reticle.'"
+    },
+    {
+      "id": 80,
+      "name": "Sagitta",
+      "phrase": "The Arrow",
+      "image": "http://www.constellationdirectory.org/images/sagitta.jpg",
+      "family": "Hercules",
+      "about": "Sagitta is located in the Northern Hemisphere and is visible in September. Sagitta is the third-smallest constellation in the sky. The only constellations that are smaller than Sagitta are Crux and Equuleus. Sources describe Sagitta as being an arrow shot by Sagittarius, while there are further references citing Cupid's arrow as a source of the mythology behind the constellation."
+    },
+    {
+      "id": 81,
+      "name": "Sagittarius",
+      "phrase": "The Archer",
+      "image": "http://www.constellationdirectory.org/images/sagittarius.jpg",
+      "family": "Zodiac",
+      "about": "Sagittarius is a large constellation in the Southern Hemisphere. It is best seen in August, which means it is visible during the summer at northern latitudes and during the winter at southern latitudes. Eight of the brightest stars in Sagittarius form a distinctive teapot shape, which is often used to identify the constellation. The center of the Milky Way galaxy lies close to Sagittarius. Sagittarius is one of the twelve constellations of the zodiac."
+    },
+    {
+      "id": 82,
+      "name": "Scorpius",
+      "phrase": "The Scorpion",
+      "image": "http://www.constellationdirectory.org/images/scorpius.jpg",
+      "family": "Zodiac",
+      "about": "Scorpius is a distinctive constellation in the Southern Hemisphere, easily distinguishable by its curved 'fish hook' shape. The constellation is best seen in July. Scorpius contains two very bright stars: Antares (Alpha Scorpii) is the sixteenth-brightest star in the night sky, and Shaula (Lambda Scorpii) is the twenty fifth-brightest. Scorpius is one of the 12 constellations of the zodiac."
+    },
+    {
+      "id": 83,
+      "name": "Sculptor",
+      "phrase": "The Sculptor",
+      "image": "http://www.constellationdirectory.org/images/sculptor.jpg",
+      "family": "Lacaille",
+      "about": "Sculptor is a constellation in the Southern Hemisphere that is best seen in November. Sculptor was first introduced by Nicolas Louis de Lacaille in the 1750s. It is one of 15 constellations Lacaille invented while staying in the Cape of Good Hope. Sculptor was originally named 'L'Atelier du Sculpteur', or 'The Sculptor's Studio.'"
+    },
+    {
+      "id": 84,
+      "name": "Scutum",
+      "phrase": "The Shield",
+      "image": "http://www.constellationdirectory.org/images/scutum.jpg",
+      "family": "Hercules",
+      "about": "Scutum is the fifth-smallest constellation in the sky. It is best seen in August. Scutum was created by Johannes Hevelius in 1690 and originally named 'Scutum Sobiescianum' (or the 'shield of Sobieski') to commemorate John III Sobieski, a Polish king who stopped the Turkish army from invading Vienna in 1683."
+    },
+    {
+      "id": 85,
+      "name": "Serpens",
+      "phrase": "The Serpent",
+      "image": "http://www.constellationdirectory.org/images/serpens_caput.jpg",
+      "family": "Hercules",
+      "about": "Serpens is located along the equator and is best viewed in July.While Serpens is classified as a single constellation, it is actually split into two individual sections that do not share borders. Serpens is divided by Ophiuchus and the two sections are called Serpens Caput and Serpens Cauda."
+    },
+    {
+      "id": 86,
+      "name": "Sextans",
+      "phrase": "The Sextant",
+      "image": "http://www.constellationdirectory.org/images/sextans.jpg",
+      "family": "Hercules",
+      "about": "Sextans is a small constellation in the small constellation. It is visible during the month of April.Sextans was first introduced by Johannes Hevelius in the late 1600s. He named it after the sextant, which was an instrument he used to make astronomical observations."
+    },
+    {
+      "id": 87,
+      "name": "Taurus",
+      "phrase": "The Bull",
+      "image": "http://www.constellationdirectory.org/images/taurus.jpg",
+      "family": "Zodiac",
+      "about": "Taurus is a large constellation in the Northern Hemisphere that is visible in January. Alpha Tauri, traditionally called Aldebaran, is the fourteenth-brightest star in the night sky and represents the eye of the bull. It is also part of the Winter Hexagon (also known as the Winter Circle), which is an asterism visible in the winter in the Northern Hemisphere that consists of Aldebaran and five other stars from nearby constellations: Capella (from Auriga), Sirius (from Canis Major), Procyon (from Canis Minor), Pollux (from Gemini), and Rigel (from Orion). Taurus is one of the twelve constellations of the zodiac."
+    },
+    {
+      "id": 88,
+      "name": "Telescopium",
+      "phrase": "The Telescope",
+      "image": "http://www.constellationdirectory.org/images/telescopium.jpg",
+      "family": "Lacaille",
+      "about": "Telescopium is a small constellation in the Southern Hemisphere that is best seen in August.Telescopium was created by Nicolas Louis de Lacaille around 1750 and is one of 15 constellations he developed while at the Cape of Good Hope in Africa."
+    },
+    {
+      "id": 89,
+      "name": "Triangulum",
+      "phrase": "The Triangle",
+      "image": "http://www.constellationdirectory.org/images/triangulum.jpg",
+      "family": "Perseus",
+      "about": "Triangulum is a small constellation in the Northern Hemisphere. It is best seen in December."
+    },
+    {
+      "id": 90,
+      "name": "Triangulum Australe",
+      "phrase": "The Southern Triangle",
+      "image": "http://www.constellationdirectory.org/images/triangulum_australe.jpg",
+      "family": "Hercules",
+      "about": "Triangulum Australe is a small constellation in the Southern Hemisphere that is best seen in July. It was first introduced in 1603 when Johann Bayer's star atlas Uranometria was first published."
+    },
+    {
+      "id": 91,
+      "name": "Tucana",
+      "phrase": "The Toucan",
+      "image": "http://www.constellationdirectory.org/images/tucana.jpg",
+      "family": "Bayer Group",
+      "about": "Tucana is a small constellation in the Southern Hemisphere that is best viewed in November. It was first introduced in 1603 when Johann Bayer published his star atlas Uranometria."
+    },
+    {
+      "id": 92,
+      "name": "Ursa Major",
+      "phrase": "The Great Bear",
+      "image": "http://www.constellationdirectory.org/images/ursa_major.jpg",
+      "family": "Ursa Major",
+      "about": "Ursa Major is the third-largest constellation in the sky and one of the most recognizable. It is visible throughout the year in the Northern Hemisphere. The tail and body of Ursa Major form the well-known asterism called the Big Dipper or the Plough. The Big Dipper is perhaps most notable for its use during the American Civil War: slaves escaping to the northern USA and Canada would use the Big Dipper (or the 'drinking gourd') as a means of navigation at night, since Ursa Major is circumpolar and never completely sets below the horizon. It could therefore be used as a guide from sundown to sunrise."
+    },
+    {
+      "id": 93,
+      "name": "Ursa Minor",
+      "phrase": "The Little Bear",
+      "image": "http://www.constellationdirectory.org/images/ursa_minor.jpg",
+      "family": "Ursa Major",
+      "about": "Ursa Minor is a small constellation in the Northern Hemisphere and is visible year round. It contains Polaris, also known as the North or Pole Star, which is the closest star to the northern celestial pole. Due to its location, Polaris appears to remain stationary in the sky while all the other stars rotate around it. Ursa Minor is the source of the Ursid meteor shower. The Ursids occur every year from December 17-23 and typically peak around December 21. At the shower's peak there can be up to 20 meteors per hour."
+    },
+    {
+      "id": 94,
+      "name": "Vela",
+      "phrase": "The Sails",
+      "image": "http://www.constellationdirectory.org/images/vela.jpg",
+      "family": "Heavenly Waters",
+      "about": "Vela is a large constellation in the Southern Hemisphere. It is best seen in March. Once part of a significantly bigger constellation known as Argo Navis. In Greek mythology, Argo Navis represented the ship that Jason and the Argonauts used when searching for the Golden Fleece (represented by Aries)."
+    },
+    {
+      "id": 95,
+      "name": "Virgo",
+      "phrase": "The Maiden",
+      "image": "http://www.constellationdirectory.org/images/virgo.jpg",
+      "family": "Zodiac",
+      "about": "Virgo is the second-largest constellation, barely surpassed by the even-larger Hydra. Virgo is one of the twelve constellations of the zodiac and is visible throughout both hemispheres during May. Spica—or Alpha Virginis—is the constellation's luminary and the fifteenth-brightest star in the night sky. Virgo contains the Virgo Cluster, which is a cluster of over 2000 galaxies"
+    },
+    {
+      "id": 96,
+      "name": "Volans",
+      "phrase": "The Flying Fish",
+      "image": "http://www.constellationdirectory.org/images/volans.jpg",
+      "family": "Bayer Group",
+      "about": "Volans is a small constellation in the Southern Hemisphere that is best seen in March. Volans was first introduced in 1603 in Johann Bayer's Uranometria and was originally named Piscis Volans."
+    },
+    {
+      "id": 97,
+      "name": "Vulpecula",
+      "phrase": "The Fox",
+      "image": "http://www.constellationdirectory.org/images/vulpecula.jpg",
+      "family": "Herclues",
+      "about": "Vulpecula is a small constellation in the Northern Hemisphere. It is best viewed in September. Vulpecula was introduced by Johannes Hevelius in 1690. It was originally named Vulpecula cum Anser, or 'The Fox and the Goose.'"
+    },
+    {
+      "location": "North Pole",
+      "id": 98
+    }
+  ]
 }

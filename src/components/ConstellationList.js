@@ -1,20 +1,13 @@
 import React from "react";
 import ConstellationCard from "./ConstellationCard";
+import { Card } from "semantic-ui-react";
 
-function ConstellationCard({ constellations, onAddLocation }) {
-    return (
-        <ul className="cards">
-            {constellations.map((constellation) => {
-                return (
-                    <ConstellationCard
-                        key={constellations.id}
-                        constellation={constellation}
-                        onAddLocation={onAddLocation}
-                    />
-                );
-            })}
-        </ul>
-    );
+function ConstellationList({ constellations, onAddLocation }) {
+    const cards = constellations.map((constellation) => (
+        <ConstellationCard key={constellation.id} constellations={constellation} onAddLocation={onAddLocation} />
+    ));
+
+    return <Card.Group itemsPerRow={8}>{cards}</Card.Group>
 }
 
 
