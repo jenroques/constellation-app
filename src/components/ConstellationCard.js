@@ -19,6 +19,7 @@ function ConstellationCard({ constellation }) {
                     <button onClick={() => {
                         window.alert(`${about}`)
                     }}>Notes</button>
+                    
                     <hr></hr>
                 </div>
         </Card>
