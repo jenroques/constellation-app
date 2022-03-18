@@ -1,6 +1,4 @@
 import React from "react";
-
-import React from "react";
 import { NavLink } from "react-router-dom";
 
 const linkStyles = {
@@ -8,7 +6,7 @@ const linkStyles = {
   width: "50px",
   padding: "12px",
   margin: "0 6px 6px",
-  background: "blue",
+  background: "grey",
   textDecoration: "none",
   color: "white",
 };
@@ -17,11 +15,11 @@ function NavBar() {
   return (
     <div>
       <NavLink
-        to="/"
+        to="/header"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkgreen",
+          background: "grey",
         }}
       >
         Home
@@ -31,20 +29,20 @@ function NavBar() {
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkgreen",
+          background: "grey",
         }}
       >
-        About
+        New Log
       </NavLink>
       <NavLink
         to="/search"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkgreen",
+          background: "grey",
         }}
       >
-        Login
+        Search
       </NavLink>
     </div>
   );

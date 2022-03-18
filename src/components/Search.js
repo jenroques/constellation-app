@@ -6,12 +6,12 @@ function Search({ searchTerm, onChangeSearch }) {
     }
 
     return (
-        <div className="ui search">
+        
             <div className="searchbar">
             <label htmlFor="search">Search Constellations:</label>
                 <input className="prompt" placeholder="Search..." value={searchTerm} onChange={handleChange} />
             </div>
-        </div>
+        
     );
 }
 
