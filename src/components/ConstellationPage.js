@@ -6,7 +6,7 @@ import Search from "./Search";
 function ConstellationPage() {
     const [constellations, setConstellations] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
-    
+
     useEffect(() => {
         fetch("http://localhost:3001/constellations")
             .then((r) => r.json())
@@ -15,10 +15,6 @@ function ConstellationPage() {
             });
     }, []);
 
-    function handleAddLocation(newLocation) {
-        const updatedConstellationArray = [...constellations, newConstellation];
-        setConstellations(updatedConstellationArray);
-    }
 
     const displayedConstellations = constellations.filter((constellation) => {
         return constellation.name.toLowerCase().includes(searchTerm.toLowerCase());
@@ -26,7 +22,6 @@ function ConstellationPage() {
 
     return (
         <main>
-            <LocationLog onAddLocation={handleAddLocation} />
             <Search searchTerm={searchTerm} onSearchChange={setSearchTerm} />
             <ConstellationList
                 constellations={displayedConstellations}

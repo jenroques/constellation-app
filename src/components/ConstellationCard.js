@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 function ConstellationCard({ constellation, onAddLocation }) {
     const { id, name, image, location } = constellation;
-    
+
     const [newLocation, setNewLocation] = useState(location);
 
     function handleAddLocationSubmit(e) {
@@ -11,11 +11,11 @@ function ConstellationCard({ constellation, onAddLocation }) {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-            }
+            },
             body: JSON.stringify({ location: newLocation }),
         })
             .then((r) => r.json())
-            .then((newLocation) => {onAddLocation(newLocation)})
+            .then((newLocation) => { onAddLocation(newLocation) })
     }
 
     return (

@@ -1,19 +1,21 @@
 import React, { } from "react";
 
-function Search({handleSearch}) {
+function Search({ searchTerm, onChangeSearch }) {
+    function handleChange(e) {
+        onChangeSearch(e.target.value);
+    }
 
     return (
-        <div className="searchbar">
-            <label htmlFor="search">Search Constellations:</label>
-            <input 
-                type="text"
-                id="search"
-                placeholder="Type name to search..."
-                onChange={handleSearch}
-            />
+        <div className="ui search">
+            <div className="ui icon input">
+                <input className="prompt" value={searchTerm} onChange={handleChange} />
+                <i className="search icon" />
+            </div>
         </div>
     );
 }
+
+
 
 
 

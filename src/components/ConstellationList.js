@@ -1,7 +1,7 @@
 import React from "react";
 import ConstellationCard from "./ConstellationCard";
 
-function ConstellationCard({ constellations, onAddLocation }) {
+function ConstellationList({ constellations, onAddLocation }) {
     return (
         <ul className="cards">
             {constellations.map((constellation) => {
