@@ -1,12 +1,13 @@
 import { render } from "@testing-library/react";
 import React  from "react";
 import { Card } from "semantic-ui-react";
-import { withAlert } from "react-alert"
 
 
-function ConstellationCard({ constellation, alert }) {
+
+
+function ConstellationCard({ constellation }) {
     const { id, name, image, phrase, family, about } = constellation;
-
+    
 
     return (
         <Card>
@@ -16,7 +17,7 @@ function ConstellationCard({ constellation, alert }) {
                     <p>"{phrase}"</p>
                     <p><b>Family: </b>{family}</p>
                     <button onClick={() => {
-                        alert.show({about})
+                        window.alert(`${about}`)
                     }}>Notes</button>
                     <hr></hr>
                 </div>
