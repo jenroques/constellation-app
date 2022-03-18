@@ -4,6 +4,8 @@ function NewConstellationForm({ onAddConstellation }) {
     const [name, setName] = useState("");
     const [image, setImage] = useState("");
     const [phrase, setPhrase] = useState("");
+    const [family, setFamily] = useState("");
+    const [about, setAbout] = useState("");
 
     function handleSubmit(e) {
         e.preventDefault();
@@ -26,7 +28,7 @@ function NewConstellationForm({ onAddConstellation }) {
     
     return (
         <div className="new-constellation-form">
-            <h2>Submit A New Constellation:</h2>
+            <h2>Have you discovered a new constellation? Submit your findings below!</h2>
             <form onSubmit={handleSubmit}>
                 <input 
                     type="text"
@@ -71,4 +73,4 @@ function NewConstellationForm({ onAddConstellation }) {
 
 
 
-export default LocationLog;
+export default NewConstellationForm;

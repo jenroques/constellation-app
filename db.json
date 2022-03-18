@@ -695,6 +695,14 @@
       "image": "http://www.constellationdirectory.org/images/vulpecula.jpg",
       "family": "Herclues",
       "about": "Vulpecula is a small constellation in the Northern Hemisphere. It is best viewed in September. Vulpecula was introduced by Johannes Hevelius in 1690. It was originally named Vulpecula cum Anser, or 'The Fox and the Goose.'"
+    },
+    {
+      "name": "Nola",
+      "phrase": "The Wonder Cat",
+      "image": "https://s36537.pcdn.co/wp-content/uploads/2017/07/Devon-Rex-brown.jpg.",
+      "family": "Cats",
+      "about": "A Cat Constellation!",
+      "id": 98
     }
   ]
 }
