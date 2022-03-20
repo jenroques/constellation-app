@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Constellation Log SPA
+
+>Search through already known and logged Constellations, and add you own!
+
+<img src="/public/Constellation App.png" width="25%" height="25%">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+### `npm run server`
+To begin, start the JSON server by entering the code above into your terminal.
 
 ### `npm start`
+Next, enter "npm start" to open the file in your browser. Chrome works best!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project Logic:
+This project was designed to be educational, fun and functional for beginners and astronomy pros alike. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features: 
+1. ***To add a new constellation, fill out form at the top of the page.***
 
-### `npm test`
+<img src="/public/NewForm.png" width="45%" height="45%">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+***To clear the form, hit the Reset button.***
 
-### `npm run build`
+2. ***Easily Search through all the already logged Constellations with the "Search" bar.***
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="/public/Search Bar.png" width="45%" height="45%">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. ***View details regarding the constellation including Name, Phrase, Star Family.***
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="/public/Constellation Card.png" width="25%" height="25%">
 
-### `npm run eject`
+4. ***Select the "Notes" option to activate a pop up with more information including history and mythology.*** 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img src="/public/InfoPopup.png" width="25%" height="25%">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. ***Easily navigate to the Search and New Constellation Form via links at the bottom of the page.***
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src="/public/React Router.png" width="25%" height="25%">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Technologies Used: 
 
-## Learn More
+1. Create React App 
+2. React Router Dom
+3. JSON Server
+4. Semantic UI React 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you and I hope you have fun! 
