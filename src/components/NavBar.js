@@ -17,32 +17,32 @@ function NavBar() {
       <NavLink
         to="/header"
         exact
-        style={linkStyles}
+        
         activeStyle={{
-          background: "grey",
+          background: "white",
         }}
       >
-        Home
+        * Home *   
       </NavLink>
       <NavLink
         to="/newconstellationform"
         exact
-        style={linkStyles}
+       
         activeStyle={{
-          background: "grey",
+          background: "white",
         }}
       >
-        New Log
+        * New Log * 
       </NavLink>
       <NavLink
         to="/search"
         exact
-        style={linkStyles}
+        
         activeStyle={{
-          background: "grey",
+          background: "white",
         }}
       >
-        Search
+        * Search * 
       </NavLink>
     </div>
   );

@@ -1,3 +1,4 @@
+import { clear } from "@testing-library/user-event/dist/clear";
 import React, { useState } from "react";
 
 function NewConstellationForm({ onAddConstellation }) {
@@ -6,6 +7,8 @@ function NewConstellationForm({ onAddConstellation }) {
     const [phrase, setPhrase] = useState("");
     const [family, setFamily] = useState("");
     const [about, setAbout] = useState("");
+    const [inputValue, setInputValue] = useState("")
+   
 
     function handleSubmit(e) {
         e.preventDefault();
@@ -25,27 +28,36 @@ function NewConstellationForm({ onAddConstellation }) {
             .then((r) => r.json())
             .then((newConstellation) => onAddConstellation(newConstellation));
     }
-    
+
+    const clearValues = () => {
+        setName("");
+        setPhrase("");
+        setImage("");
+        setFamily("");
+        setAbout("");
+    }
+
+
     return (
         <div className="new-constellation-form">
             <h2>Have you discovered a new constellation? Submit your findings below!</h2>
             <form onSubmit={handleSubmit}>
                 <input 
-                    type="text"
+                    type="text" 
                     name="name"
                     placeholder="Constellation Name"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                 />
                 <input
-                    type="text"
+                    type="text" 
                     name="phrase"
                     placeholder="Phrase"
                     value={phrase}
                     onChange={(e) => setPhrase(e.target.value)}
                 />
                 <input  
-                    type="text"
+                    type="text" 
                     name="image"
                     placeholder="Image URL"
                     value={image}
@@ -65,8 +77,9 @@ function NewConstellationForm({ onAddConstellation }) {
                     value={about}
                     onChange={(e) => setAbout(e.target.value)}
                 />
-                <button type="submit">Add Constellation</button>
+                <button type="submit">Add Constellation</button> <br></br>
             </form>
+            <button className="reset" onClick={clearValues}> Reset </button> 
         </div>
     );
 }

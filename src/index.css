@@ -34,6 +34,10 @@ p {
   text-align: center;   
 }
 
+.reset {
+  float: right;
+}
+
 button {
   padding: 0.25rem 1rem;
   font-family: "Tahoma";
