@@ -4,45 +4,46 @@ import { NavLink } from "react-router-dom";
 const linkStyles = {
   display: "inline-block",
   width: "50px",
-  padding: "12px",
+  padding: "20px",
   margin: "0 6px 6px",
   background: "grey",
   textDecoration: "none",
   color: "white",
+  
 };
 
 function NavBar() {
   return (
-    <div>
+    <div className="nav">
       <NavLink
-        to="/header"
+        to="/about"
         exact
         
         activeStyle={{
-          background: "white",
+          background: "turquoise",
         }}
       >
-        * Home *   
+        * About *   
       </NavLink>
       <NavLink
         to="/newconstellationform"
         exact
        
         activeStyle={{
-          background: "white",
+          background: "turquoise",
         }}
       >
-        * New Log * 
+        * Add Constellation * 
       </NavLink>
       <NavLink
-        to="/search"
+        to="/history"
         exact
         
         activeStyle={{
-          background: "white",
+          background: "turquoise",
         }}
       >
-        * Search * 
+        * History * 
       </NavLink>
     </div>
   );

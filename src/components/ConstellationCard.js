@@ -20,6 +20,7 @@ function ConstellationCard({ constellation }) {
                         window.alert(`${about}`)
                     }}>Notes</button>
                     
+                    
                     <hr></hr>
                 </div>
         </Card>

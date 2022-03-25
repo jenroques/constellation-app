@@ -8,9 +8,17 @@ body {
 }
 
 :root {
-  --darkblue: rgb(37, 80, 113);
+  --background: white;
+  --text-primary: black;
+  --text-secondary: rgba(65, 84, 91, 0.954);
+  --accent: rgb(0, 43, 62);
 }
-
+[data-theme='dark'] {
+  --background: black;
+  --text-primary: white;
+  --text-secondary: grey;
+  --accent: rgb(0, 139, 125);
+}
 * {
   
   padding: 0;
@@ -37,6 +45,7 @@ p {
 .reset {
   float: right;
 }
+
 
 button {
   padding: 0.25rem 1rem;

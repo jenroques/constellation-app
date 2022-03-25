@@ -7,7 +7,7 @@ function NewConstellationForm({ onAddConstellation }) {
     const [phrase, setPhrase] = useState("");
     const [family, setFamily] = useState("");
     const [about, setAbout] = useState("");
-    const [inputValue, setInputValue] = useState("")
+    
    
 
     function handleSubmit(e) {
