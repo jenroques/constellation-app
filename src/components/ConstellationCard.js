@@ -1,5 +1,6 @@
 import { render } from "@testing-library/react";
 import React  from "react";
+import ViewRating from "./ViewRating";
 import { Card } from "semantic-ui-react";
 
 
@@ -19,7 +20,7 @@ function ConstellationCard({ constellation }) {
                     <button onClick={() => {
                         window.alert(`${about}`)
                     }}>Notes</button>
-                    
+                    <ViewRating />
                     
                     <hr></hr>
                 </div>
