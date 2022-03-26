@@ -1,8 +1,7 @@
 import React from "react";
-import NavBar from "./NavBar";
-import History from './History';
+import NavBar from './NavBar';
 import About from './About';
-import NewConstellationForm from './NewConstellationForm';
+import History from './History';
 import { Route, Switch } from "react-router-dom";
 
 function Header({  }) {
@@ -11,20 +10,17 @@ function Header({  }) {
             <h1>
                 Constellation Log
             </h1>
-            <div>
-                <NavBar />
-                <Switch>
-                    <Route exact path="/history">
-                        <History />
-                    </Route>
-                    <Route exact path="/newconstellationform">
-                        <NewConstellationForm />
-                    </Route>
-                    <Route exact path="/about">
-                        <About />
-                    </Route>
-                </Switch>
-             </div>
+        <div>
+          <NavBar />
+          <Switch>
+            <Route exact path="/about">
+              <About />
+              </Route>
+            <Route exact path="/history">
+              <History />
+            </Route>
+          </Switch>
+        </div>
         </header>
     );
 }

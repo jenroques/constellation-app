@@ -1,37 +1,48 @@
+import React from 'react';
 
-import React, { useState } from "react";
-import { FaStar } from "react-icons/fa";
-import { Container, Radio, Rating } from "./RatingStyles";
+class Likes extends React.Component {
 
-const Rate = () => {
-  const [rate, setRate] = useState(0);
-  return (
-    <Container>
-      {[...Array(5)].map((item, index) => {
-        const givenRating = index + 1;
-        return (
-          <label>
-            <Radio
-              type="radio"
-              value={givenRating}
-              onClick={() => {
-                setRate(givenRating);
-              }}
-            />
-            <Rating>
-              <FaStar
-                color={
-                  givenRating < rate || givenRating === rate
-                    ? "rgb(245, 225, 76)"
-                    : "rgb(104,171,168)"
-                }
-              />
-            </Rating>
-          </label>
-        );
-      })}
-    </Container>
-  );
-};
-  
-export default Rate;
+  constructor(props){
+
+    super(props);
+    this.state = {
+      likes: "⭐",
+      updated: false
+    };
+
+  }
+
+  updateLikes = () => {
+
+    if(!this.state.updated) {
+      this.setState((prevState, props) => {
+        return {
+          likes: prevState.likes + "⭐",
+          updated: true
+        };
+      });
+
+    } else {
+
+      this.setState((prevState, props) => {
+        return {
+          likes: prevState.likes > 5,
+          updated: false
+        };
+      });
+
+    }
+  }
+
+  render(){
+
+    return(
+      <div>
+        <button onClick={this.updateLikes}>Rating</button>
+        <p>{this.state.likes}</p>
+      </div>
+    );
+  }
+}
+
+export default Likes;

@@ -26,16 +26,6 @@ function NavBar() {
         * About *   
       </NavLink>
       <NavLink
-        to="/newconstellationform"
-        exact
-       
-        activeStyle={{
-          background: "turquoise",
-        }}
-      >
-        * Add Constellation * 
-      </NavLink>
-      <NavLink
         to="/history"
         exact
         

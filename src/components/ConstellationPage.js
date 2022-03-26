@@ -8,7 +8,6 @@ function ConstellationPage() {
     const [constellations, setConstellations] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
 
-
     useEffect(() => {
         fetch("http://localhost:3001/constellations")
             .then((r) => r.json())
@@ -29,12 +28,11 @@ function ConstellationPage() {
     return (
         
         <Container>
-            
-            <h3></h3>
+            <NewConstellationForm onAddConstellation={handleAddConstellation}/>
+            <h3>Known Constellations</h3>
             <Search searchTerm={searchTerm} onChangeSearch={setSearchTerm} />
             <br />
             <ConstellationList constellations={constellationsToDisplay} />
-            <NewConstellationForm onAddConstellation={handleAddConstellation}/>
         </Container>
     );
 }
@@ -42,5 +40,3 @@ function ConstellationPage() {
 
 
 export default ConstellationPage;
-
-// input field - button - setState - handleLikes

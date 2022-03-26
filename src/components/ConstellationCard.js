@@ -1,6 +1,5 @@
 import { render } from "@testing-library/react";
 import React  from "react";
-import ViewRating from "./ViewRating";
 import { Card } from "semantic-ui-react";
 
 
@@ -20,8 +19,6 @@ function ConstellationCard({ constellation }) {
                     <button onClick={() => {
                         window.alert(`${about}`)
                     }}>Notes</button>
-                    <p>View Rating</p>
-                    <ViewRating />
                     
                     <hr></hr>
                 </div>
@@ -35,3 +32,7 @@ function ConstellationCard({ constellation }) {
 
 
 export default ConstellationCard;
+
+
+
+
