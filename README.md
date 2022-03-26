@@ -34,9 +34,9 @@ This project was designed to be educational, fun and functional for beginners an
 
 <img src="/public/InfoPopup.png" width="25%" height="25%">
 
-5. ***Easily navigate to the Search and New Constellation Form via links at the bottom of the page.***
+5. ***Get detailed information using the links at the top of the page.***
 
-<img src="/public/React Router.png" width="25%" height="25%">
+<img src="/public/Nav.png" width="25%" height="25%">
 
 ### Technologies Used: 
 
