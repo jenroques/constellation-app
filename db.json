@@ -687,30 +687,6 @@
       "image": "http://www.constellationdirectory.org/images/volans.jpg",
       "family": "Bayer Group",
       "about": "Volans is a small constellation in the Southern Hemisphere that is best seen in March. Volans was first introduced in 1603 in Johann Bayer's Uranometria and was originally named Piscis Volans."
-    },
-    {
-      "name": "sd",
-      "phrase": "sd",
-      "image": "sd",
-      "family": "",
-      "about": "",
-      "id": 97
-    },
-    {
-      "name": "dd",
-      "phrase": "",
-      "image": "",
-      "family": "",
-      "about": "",
-      "id": 98
-    },
-    {
-      "name": "sd",
-      "phrase": "",
-      "image": "",
-      "family": "",
-      "about": "",
-      "id": 99
     }
   ]
 }
