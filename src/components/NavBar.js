@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import logo from "/Users/jroques/Development/React/constellation-app/src/star-regular.svg"
 
 const linkStyles = {
   display: "inline-block",
@@ -7,7 +8,7 @@ const linkStyles = {
   padding: "20px",
   margin: "0 6px 6px",
   background: "grey",
-  textDecoration: "none",
+  
   color: "white",
   
 };
@@ -15,16 +16,43 @@ const linkStyles = {
 function NavBar() {
   return (
     <div className="nav">
+      <img 
+        src={logo}
+        width="20px"
+        height="20px"
+      />
       <NavLink
         to="/about"
+        exact
+        
+        
+        activeStyle={{
+          background: "turquoise",
+        }}
+      >
+
+         About    
+      </NavLink>
+      <img 
+        src={logo}
+        width="20px"
+        height="20px"
+      />
+      <NavLink
+        to="/aboutVr"
         exact
         
         activeStyle={{
           background: "turquoise",
         }}
       >
-        * About *   
+         What is 'View Rating'? 
       </NavLink>
+      <img 
+        src={logo}
+        width="20px"
+        height="20px"
+      />
       <NavLink
         to="/history"
         exact
@@ -33,8 +61,14 @@ function NavBar() {
           background: "turquoise",
         }}
       >
-        * History * 
+         History 
       </NavLink>
+      <img 
+        src={logo}
+        width="20px"
+        height="20px"
+        
+      />
     </div>
   );
 }
