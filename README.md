@@ -36,7 +36,7 @@ This project was designed to be educational, fun and functional for beginners an
 
 5. ***Get detailed information using the links at the top of the page.***
 
-<img src="/public/Nav.png" width="25%" height="25%">
+<img src="/public/Nav.png" width="45%" height="45%">
 
 ### Technologies Used: 
 
